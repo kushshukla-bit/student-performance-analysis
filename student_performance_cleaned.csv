@@ -1,0 +1,1201 @@
+student_id,name,gender,age,parental_education,study_hours_per_day,attendance_percentage,math_score,science_score,english_score,average_score,total_score,result
+1446,Myra Singh,Female,17,Some College,2.5,87.9,49,35,50,44.67,134,Fail
+1290,Myra Johnson,Female,17,High School,6.9,66.6,77,68,60,68.33,205,Pass
+1569,Mason Das,Female,18,Bachelor's,6.6,98.0,77,83,74,78.0,234,Pass
+1180,Saanvi Patel,Male,17,Bachelor's,2.3,69.9,55,64,63,60.67,182,Pass
+2035,Ishaan Reddy,Male,18,Some College,2.8,83.9,53,57,53,54.33,163,Pass
+1921,Riya Brown,Female,17,Bachelor's,4.3,94.5,70,67,76,71.0,213,Pass
+1047,Ayaan Smith,Male,17,Master's,6.7,91.6,56,52,74,60.67,182,Pass
+1345,Vihaan Reddy,Male,16,Some College,5.8,64.3,54,45,57,52.0,156,Pass
+1421,John Martinez,Female,17,High School,3.0,84.2,50,53,57,53.33,160,Pass
+1953,Emma Nair,Male,18,Bachelor's,5.1,98.2,76,91,97,88.0,264,Pass
+1190,Lucas Johnson,Male,18,Bachelor's,4.0,81.9,93,90,82,88.33,265,Pass
+1618,Ananya Jones,Male,16,Bachelor's,4.4,85.4,65,72,59,65.33,196,Pass
+2129,Sai Singh,Male,15,Bachelor's,4.7,94.0,55,48,69,57.33,172,Pass
+1306,Lucas Das,Female,18,Some College,3.6,93.7,41,44,47,44.0,132,Pass
+1973,Sophia Patel,Female,18,Some College,4.2,86.7,38,43,54,45.0,135,Fail
+1669,Aditya Johnson,Male,15,Bachelor's,2.3,96.7,63,75,64,67.33,202,Pass
+1642,Pari Miller,Male,17,Master's,3.4,93.4,53,56,69,59.33,178,Pass
+1455,Evelyn Verma,Male,18,High School,5.8,76.0,43,64,57,54.67,164,Pass
+2058,Reyansh Singh,Male,15,Master's,4.0,93.1,80,76,96,84.0,252,Pass
+1834,Liam Garcia,Male,18,High School,4.7,93.7,52,49,47,49.33,148,Pass
+1968,Krishna Smith,Male,17,Some College,3.2,77.4,76,89,84,83.0,249,Pass
+1052,Myra Martinez,Female,15,Some College,3.5,99.0,80,76,83,79.67,239,Pass
+2027,Ishaan Reddy,Female,16,Some College,5.4,89.4,84,75,70,76.33,229,Pass
+1643,William Singh,Male,16,Some College,4.0,77.4,44,55,47,48.67,146,Pass
+1064,Aditya Nair,Male,16,High School,5.9,64.0,70,68,55,64.33,193,Pass
+1854,Ethan Brown,Female,18,High School,4.0,59.3,75,68,77,73.33,220,Pass
+2098,Ananya Das,Male,16,Bachelor's,3.7,69.7,66,62,55,61.0,183,Pass
+1493,Sai Jones,Male,18,High School,3.8,92.6,52,64,57,57.67,173,Pass
+1173,Saanvi Patel,Female,17,High School,3.1,97.9,55,41,70,55.33,166,Pass
+1206,Ananya Rodriguez,Male,17,Bachelor's,4.1,80.3,84,94,79,85.67,257,Pass
+1501,Sai Miller,Female,18,Bachelor's,5.2,95.3,75,72,84,77.0,231,Pass
+2173,Evelyn Jones,Female,16,Bachelor's,7.8,81.5,80,94,100,91.33,274,Pass
+1774,Arjun Gupta,Male,16,High School,4.0,87.2,40,53,54,49.0,147,Pass
+1035,Pari Reddy,Female,15,Bachelor's,2.8,92.4,58,48,74,60.0,180,Pass
+1714,Ayaan Singh,Male,17,Master's,5.5,79.6,97,82,69,82.67,248,Pass
+1114,William Verma,Female,18,Bachelor's,5.2,67.5,72,71,77,73.33,220,Pass
+1641,Isabella Brown,Male,15,Bachelor's,4.9,66.1,58,50,52,53.33,160,Pass
+1738,Ava Gupta,Female,16,Bachelor's,2.8,76.0,38,36,35,36.33,109,Fail
+1221,Saanvi Khan,Female,16,Some College,5.8,90.7,55,65,70,63.33,190,Pass
+1908,Olivia Das,Male,15,Bachelor's,6.2,69.5,77,62,79,72.67,218,Pass
+2151,Vivaan Jones,Female,15,Bachelor's,1.3,98.7,54,57,53,54.67,164,Pass
+1805,Amelia Khan,Male,17,High School,3.4,82.2,83,84,98,88.33,265,Pass
+2094,Myra Singh,Female,15,PhD,1.6,78.6,51,38,54,47.67,143,Fail
+2136,John Rodriguez,Male,18,Master's,4.9,80.0,69,71,88,76.0,228,Pass
+1232,Michael Rodriguez,Female,16,Bachelor's,4.3,82.1,62,66,72,66.67,200,Pass
+2176,Pari Johnson,Female,15,Some College,6.8,100.0,62,66,71,66.33,199,Pass
+1747,Kiara Iyer,Male,16,Master's,2.0,86.9,88,86,90,88.0,264,Pass
+1352,Amelia Martinez,Female,18,Master's,0.6,96.2,68,51,66,61.67,185,Pass
+1778,Sai Jones,Female,18,Master's,6.9,73.1,95,87,77,86.33,259,Pass
+1579,Krishna Jones,Male,17,High School,3.6,85.4,78,60,68,68.67,206,Pass
+1400,Isabella Singh,Female,15,Master's,3.1,97.1,70,72,61,67.67,203,Pass
+1378,Ishaan Davis,Male,16,High School,5.4,83.7,60,79,83,74.0,222,Pass
+1996,Harper Verma,Male,17,High School,4.0,75.9,49,52,70,57.0,171,Pass
+1326,Vihaan Williams,Female,17,Master's,3.3,90.5,77,51,70,66.0,198,Pass
+1458,Emma Johnson,Male,17,High School,4.1,100.0,74,72,74,73.33,220,Pass
+1896,Sai Iyer,Male,17,Bachelor's,3.0,75.8,45,58,58,53.67,161,Pass
+1656,Mason Martinez,Male,17,High School,1.2,90.4,58,74,87,73.0,219,Pass
+2110,Anika Verma,Male,16,High School,1.3,87.0,70,73,69,70.67,212,Pass
+1147,Robert Johnson,Female,15,High School,1.0,88.0,55,41,62,52.67,158,Pass
+1187,James Rodriguez,Female,16,PhD,3.4,94.0,77,95,99,90.33,271,Pass
+1651,Reyansh Brown,Male,18,High School,1.3,90.0,67,55,70,64.0,192,Pass
+1110,Aadhya Khan,Male,18,High School,4.5,96.2,60,53,68,60.33,181,Pass
+1634,Lucas Williams,Female,17,Bachelor's,5.4,89.9,78,69,79,75.33,226,Pass
+1359,Robert Khan,Female,15,Bachelor's,1.9,72.2,39,59,76,58.0,174,Fail
+1271,Anika Gupta,Female,17,Master's,3.4,79.2,70,62,85,72.33,217,Pass
+1978,Emma Singh,Male,18,Bachelor's,2.1,84.2,77,75,78,76.67,230,Pass
+1919,Evelyn Patel,Female,18,Bachelor's,8.3,77.4,66,88,73,75.67,227,Pass
+1869,Evelyn Gupta,Female,17,High School,3.3,93.0,63,75,64,67.33,202,Pass
+1205,Kiara Reddy,Female,16,Master's,2.1,98.0,76,79,76,77.0,231,Pass
+1102,James Jones,Female,18,Master's,4.5,92.0,44,61,64,56.33,169,Pass
+2050,Arjun Sharma,Male,16,High School,2.0,75.7,49,74,82,68.33,205,Pass
+1099,Evelyn Das,Male,15,Some College,5.1,88.2,62,59,56,59.0,177,Pass
+1565,Olivia Patel,Male,18,Some College,5.7,72.1,73,66,68,69.0,207,Pass
+2183,Krishna Sharma,Female,16,Master's,7.5,78.9,76,92,84,84.0,252,Pass
+2157,Sophia Martinez,Male,17,Master's,4.4,84.6,79,94,100,91.0,273,Pass
+1010,Sophia Smith,Female,17,Bachelor's,7.2,99.7,74,84,82,80.0,240,Pass
+1054,Abigail Davis,Female,17,Master's,3.5,67.7,66,66,74,68.67,206,Pass
+1225,Saanvi Patel,Male,15,Bachelor's,0.8,83.5,46,51,70,55.67,167,Pass
+2152,Evelyn Reddy,Female,16,PhD,4.0,89.9,88,92,70,83.33,250,Pass
+1265,Olivia Singh,Female,16,Some College,6.0,90.8,79,79,80,79.33,238,Pass
+2053,Arjun Smith,Female,18,Bachelor's,1.8,79.0,59,58,62,59.67,179,Pass
+1611,James Sharma,Male,18,Some College,4.6,56.4,87,76,74,79.0,237,Pass
+1645,Emma Nair,Male,17,High School,3.9,77.2,66,51,72,63.0,189,Pass
+1604,Lucas Patel,Male,16,High School,3.6,82.3,66,70,59,65.0,195,Pass
+1494,Aadhya Smith,Male,16,PhD,2.7,71.6,48,67,50,55.0,165,Pass
+2038,Aditya Martinez,Female,15,Master's,3.2,100.0,87,76,93,85.33,256,Pass
+1751,Riya Reddy,Male,17,High School,1.3,74.5,41,45,48,44.67,134,Pass
+2087,Arjun Williams,Female,17,High School,2.0,70.3,56,65,55,58.67,176,Pass
+1670,Mason Patel,Male,17,Master's,4.2,76.7,71,78,83,77.33,232,Pass
+1380,Ethan Singh,Male,18,Bachelor's,3.4,77.0,46,52,69,55.67,167,Pass
+2014,Riya Nair,Male,18,High School,4.0,88.0,77,87,86,83.33,250,Pass
+1375,Anika Patel,Male,17,Some College,7.9,71.7,89,88,100,92.33,277,Pass
+2021,Ayaan Reddy,Female,18,PhD,5.7,82.3,84,88,100,90.67,272,Pass
+1217,Saanvi Reddy,Male,18,Master's,1.3,69.0,70,66,62,66.0,198,Pass
+1279,Myra Johnson,Female,16,High School,6.9,86.5,70,59,53,60.67,182,Pass
+1558,Noah Khan,Male,17,High School,6.3,72.9,54,60,55,56.33,169,Pass
+1253,Michael Brown,Female,16,High School,1.5,83.3,69,69,66,68.0,204,Pass
+2017,Anika Smith,Male,16,Some College,3.6,94.8,69,71,73,71.0,213,Pass
+1273,Ayaan Johnson,Female,17,Bachelor's,3.2,100.0,73,81,63,72.33,217,Pass
+1208,James Williams,Female,17,High School,4.4,71.7,88,79,96,87.67,263,Pass
+1811,Ananya Williams,Female,17,Bachelor's,4.9,86.1,86,90,96,90.67,272,Pass
+1566,Abigail Miller,Female,18,High School,6.1,84.2,70,63,71,68.0,204,Pass
+1084,John Iyer,Male,17,Bachelor's,3.6,84.6,67,73,59,66.33,199,Pass
+1514,Liam Martinez,Female,17,Some College,2.2,97.3,34,52,66,50.67,152,Fail
+1055,Mason Verma,Female,16,High School,3.2,84.4,63,67,81,70.33,211,Pass
+1955,Ava Garcia,Male,18,Some College,4.9,75.0,85,84,91,86.67,260,Pass
+1653,Aadhya Nair,Female,17,Bachelor's,7.8,85.6,78,75,81,78.0,234,Pass
+1142,Pari Davis,Male,17,High School,0.0,80.2,23,38,32,31.0,93,Fail
+2131,Lucas Rodriguez,Female,18,High School,2.5,89.9,56,63,73,64.0,192,Pass
+1661,Ava Singh,Male,15,Bachelor's,5.1,78.7,50,72,69,63.67,191,Pass
+1570,Lucas Nair,Male,15,Bachelor's,1.6,100.0,86,70,69,75.0,225,Pass
+1587,Abigail Nair,Male,15,High School,4.2,64.9,70,78,83,77.0,231,Pass
+1427,Diya Patel,Male,17,Master's,4.8,92.9,66,68,70,68.0,204,Pass
+2196,Isha Sharma,Female,15,Bachelor's,2.9,80.9,91,81,63,78.33,235,Pass
+1682,Harper Martinez,Male,18,Bachelor's,2.9,84.0,69,61,78,69.33,208,Pass
+1152,James Sharma,Male,18,PhD,5.6,100.0,76,86,84,82.0,246,Pass
+1410,William Davis,Male,17,Bachelor's,5.2,82.2,44,43,49,45.33,136,Pass
+1563,John Martinez,Male,16,Some College,6.1,77.1,78,68,84,76.67,230,Pass
+1433,John Smith,Female,16,Master's,6.4,78.3,68,88,75,77.0,231,Pass
+1041,James Davis,Male,18,Master's,0.7,76.1,73,73,66,70.67,212,Pass
+1286,Aarav Martinez,Male,17,Bachelor's,3.2,100.0,58,64,79,67.0,201,Pass
+1013,John Smith,Female,17,Bachelor's,0.5,90.7,47,37,35,39.67,119,Fail
+1098,Mia Nair,Male,16,Master's,5.8,82.2,67,71,80,72.67,218,Pass
+1668,Pari Iyer,Male,15,Bachelor's,5.0,97.4,85,87,97,89.67,269,Pass
+1701,Ayaan Smith,Female,16,Some College,1.3,83.1,45,58,46,49.67,149,Pass
+1129,Amelia Jones,Male,15,PhD,2.9,87.1,63,59,63,61.67,185,Pass
+1485,Mia Miller,Female,16,Some College,3.1,92.5,86,59,63,69.33,208,Pass
+1770,Harper Iyer,Female,16,High School,5.2,72.6,58,60,65,61.0,183,Pass
+1542,Reyansh Sharma,Female,18,Bachelor's,6.2,80.2,69,100,76,81.67,245,Pass
+1598,Ava Nair,Male,16,High School,1.5,88.2,83,78,81,80.67,242,Pass
+2180,John Gupta,Female,16,Bachelor's,4.4,76.1,69,52,72,64.33,193,Pass
+1709,Ananya Brown,Male,17,Master's,4.2,81.4,58,76,69,67.67,203,Pass
+1264,Vivaan Iyer,Female,18,High School,1.4,79.5,56,50,55,53.67,161,Pass
+1549,Aarav Das,Female,17,Bachelor's,0.7,89.9,79,64,57,66.67,200,Pass
+2042,Anika Davis,Female,17,Master's,2.8,89.5,84,82,85,83.67,251,Pass
+1858,Ayaan Gupta,Male,17,Master's,3.7,93.3,95,84,80,86.33,259,Pass
+2083,John Jones,Male,18,Bachelor's,6.8,95.7,100,100,91,97.0,291,Pass
+1910,Saanvi Iyer,Male,16,High School,3.2,80.2,66,78,86,76.67,230,Pass
+1743,Isabella Singh,Female,16,Master's,5.9,86.3,80,86,77,81.0,243,Pass
+1842,Ayaan Miller,Female,16,High School,5.2,87.1,62,62,58,60.67,182,Pass
+2114,Aditya Miller,Female,15,Bachelor's,6.0,88.4,62,71,64,65.67,197,Pass
+2018,Myra Verma,Female,16,Master's,3.3,91.5,68,75,69,70.67,212,Pass
+1839,Michael Gupta,Female,16,Bachelor's,1.7,82.8,71,59,77,69.0,207,Pass
+1018,Pari Nair,Female,15,Master's,4.9,78.1,73,59,71,67.67,203,Pass
+1524,Mia Smith,Female,16,Master's,3.6,84.1,89,72,79,80.0,240,Pass
+1171,Mason Patel,Female,18,Bachelor's,3.9,97.5,58,64,74,65.33,196,Pass
+1756,Aditya Johnson,Female,16,Bachelor's,1.8,73.8,58,65,47,56.67,170,Pass
+2103,Aarav Rodriguez,Female,16,High School,6.5,81.1,75,77,87,79.67,239,Pass
+1116,Arjun Sharma,Female,18,Some College,2.2,94.5,65,70,67,67.33,202,Pass
+1254,Isha Reddy,Male,17,PhD,5.1,84.9,92,99,98,96.33,289,Pass
+2101,William Iyer,Male,17,Some College,3.3,80.2,92,100,100,97.33,292,Pass
+1141,Aadhya Johnson,Female,15,Master's,4.3,74.2,61,73,76,70.0,210,Pass
+1871,Olivia Khan,Male,18,Some College,2.5,96.8,61,69,65,65.0,195,Pass
+1772,Diya Nair,Female,18,Bachelor's,4.3,89.1,79,81,87,82.33,247,Pass
+1368,Ethan Martinez,Female,17,Bachelor's,2.8,80.4,62,65,70,65.67,197,Pass
+1557,Ishaan Gupta,Male,18,High School,3.8,74.0,61,72,78,70.33,211,Pass
+1386,Aarav Iyer,Female,18,Master's,4.8,84.1,74,79,73,75.33,226,Pass
+1620,Mason Martinez,Female,15,Master's,4.0,86.2,88,92,100,93.33,280,Pass
+1545,Evelyn Miller,Female,16,Some College,4.5,79.1,73,67,84,74.67,224,Pass
+1889,Ethan Smith,Male,18,Bachelor's,3.8,80.6,66,64,63,64.33,193,Pass
+1109,Arjun Nair,Male,17,Master's,4.3,76.8,68,65,56,63.0,189,Pass
+1985,Emma Das,Female,15,Master's,6.8,96.3,92,89,91,90.67,272,Pass
+1281,Aditya Garcia,Female,18,High School,4.4,78.5,65,63,68,65.33,196,Pass
+1981,Ananya Jones,Male,18,Bachelor's,3.6,89.6,85,93,88,88.67,266,Pass
+1100,Diya Gupta,Male,15,High School,5.5,85.8,79,75,82,78.67,236,Pass
+1736,Riya Rodriguez,Female,18,Bachelor's,0.1,95.4,61,51,56,56.0,168,Pass
+1637,Olivia Verma,Female,16,High School,4.0,100.0,78,82,67,75.67,227,Pass
+1535,Arjun Gupta,Female,17,Bachelor's,9.5,84.9,99,91,90,93.33,280,Pass
+1664,Myra Miller,Male,16,PhD,4.1,100.0,84,93,83,86.67,260,Pass
+1852,Lucas Verma,Female,16,Bachelor's,4.7,100.0,65,67,70,67.33,202,Pass
+1472,Vihaan Williams,Female,15,High School,3.0,90.6,50,52,58,53.33,160,Pass
+1397,Reyansh Rodriguez,Female,18,Bachelor's,2.9,71.7,54,70,75,66.33,199,Pass
+1867,Emma Williams,Male,17,Bachelor's,4.3,91.0,57,59,79,65.0,195,Pass
+1913,Vihaan Jones,Female,18,High School,6.7,99.7,61,98,73,77.33,232,Pass
+1340,Krishna Gupta,Male,17,High School,0.5,94.8,71,75,73,73.0,219,Pass
+1882,Ava Brown,Female,15,PhD,6.2,87.3,82,74,77,77.67,233,Pass
+1987,Saanvi Singh,Female,15,High School,0.0,82.0,52,64,58,58.0,174,Pass
+2104,Mia Miller,Female,17,Bachelor's,0.7,100.0,45,49,67,53.67,161,Pass
+1432,Noah Smith,Female,17,High School,7.0,81.0,70,73,68,70.33,211,Pass
+1024,Riya Jones,Male,15,Some College,3.3,72.7,62,83,89,78.0,234,Pass
+2020,Saanvi Das,Male,16,Bachelor's,4.0,84.9,91,94,77,87.33,262,Pass
+1768,Riya Gupta,Female,15,Master's,4.9,87.1,64,45,80,63.0,189,Pass
+1504,Emma Rodriguez,Female,18,High School,8.0,88.2,77,82,81,80.0,240,Pass
+1878,Ishaan Reddy,Female,17,Bachelor's,4.3,96.5,65,62,70,65.67,197,Pass
+1956,Anika Singh,Male,18,High School,3.1,81.4,78,73,80,77.0,231,Pass
+1914,William Patel,Male,16,Master's,4.8,93.7,60,64,58,60.67,182,Pass
+1124,Diya Patel,Male,16,Master's,4.6,97.6,82,93,99,91.33,274,Pass
+2167,Diya Khan,Female,17,Bachelor's,4.6,77.7,70,76,69,71.67,215,Pass
+1793,Ethan Williams,Female,16,Master's,1.8,83.0,49,56,52,52.33,157,Pass
+1499,Aditya Williams,Female,18,Master's,5.9,81.2,76,65,76,72.33,217,Pass
+1523,Krishna Williams,Female,17,Bachelor's,4.0,86.4,60,73,65,66.0,198,Pass
+2074,Ethan Miller,Male,15,Bachelor's,3.4,98.4,68,57,60,61.67,185,Pass
+2187,Sophia Reddy,Female,17,Bachelor's,4.2,90.8,87,92,99,92.67,278,Pass
+1229,Ayaan Garcia,Female,17,Some College,1.5,69.5,40,49,58,49.0,147,Pass
+1148,Harper Martinez,Female,15,High School,2.4,87.0,70,87,85,80.67,242,Pass
+2068,Amelia Sharma,Male,16,Some College,6.1,95.0,74,69,82,75.0,225,Pass
+1537,Michael Miller,Female,15,Bachelor's,3.5,82.0,64,45,46,51.67,155,Pass
+1819,Mia Nair,Male,15,High School,4.8,86.2,87,85,90,87.33,262,Pass
+1071,Reyansh Smith,Female,17,Master's,2.7,85.9,81,84,91,85.33,256,Pass
+2128,Olivia Garcia,Male,17,Bachelor's,2.0,89.0,57,82,57,65.33,196,Pass
+1263,Saanvi Miller,Male,17,Bachelor's,5.3,89.1,67,84,75,75.33,226,Pass
+1172,William Garcia,Male,18,High School,4.8,77.0,72,60,72,68.0,204,Pass
+2159,Ishaan Patel,Female,18,Master's,4.9,79.6,60,71,87,72.67,218,Pass
+1169,Emma Verma,Male,15,Master's,3.2,81.3,83,95,84,87.33,262,Pass
+1479,Isabella Davis,Female,18,Some College,7.6,95.0,64,72,65,67.0,201,Pass
+1906,Amelia Miller,Female,18,PhD,2.0,97.6,55,59,56,56.67,170,Pass
+1813,Evelyn Iyer,Male,15,High School,4.0,100.0,74,76,71,73.67,221,Pass
+1126,Pari Singh,Male,17,High School,4.4,100.0,51,48,54,51.0,153,Pass
+1373,James Das,Male,17,High School,5.2,72.9,65,49,57,57.0,171,Pass
+1362,James Davis,Female,17,Bachelor's,6.7,87.4,81,59,79,73.0,219,Pass
+1165,Aarav Rodriguez,Male,17,Bachelor's,6.4,87.4,74,82,82,79.33,238,Pass
+1726,Amelia Rodriguez,Female,16,Bachelor's,2.4,82.9,42,65,42,49.67,149,Pass
+2118,Mia Reddy,Female,17,PhD,0.0,73.1,53,80,65,66.0,198,Pass
+1572,Robert Davis,Female,17,Bachelor's,2.6,96.8,53,60,69,60.67,182,Pass
+1827,Lucas Garcia,Male,18,Master's,4.6,80.4,61,82,86,76.33,229,Pass
+1043,Liam Nair,Male,15,High School,2.9,99.1,66,67,88,73.67,221,Pass
+1769,Liam Smith,Male,15,Some College,3.3,88.5,73,68,77,72.67,218,Pass
+1900,Olivia Verma,Male,16,Master's,6.5,87.1,85,87,80,84.0,252,Pass
+2066,Olivia Reddy,Female,15,High School,2.2,86.4,52,60,76,62.67,188,Pass
+1133,Kiara Nair,Male,17,High School,2.9,100.0,56,46,65,55.67,167,Pass
+1632,Diya Miller,Female,17,High School,3.9,99.9,64,66,74,68.0,204,Pass
+1039,Ananya Williams,Female,18,High School,5.0,81.0,64,75,65,68.0,204,Pass
+1541,Vihaan Das,Female,18,PhD,7.3,94.1,68,75,83,75.33,226,Pass
+1475,Sophia Brown,Female,16,Some College,6.3,69.0,84,64,60,69.33,208,Pass
+1315,Riya Das,Female,17,Bachelor's,1.7,87.5,69,78,74,73.67,221,Pass
+2026,Krishna Iyer,Male,18,Bachelor's,2.7,86.1,56,47,54,52.33,157,Pass
+1390,Michael Gupta,Female,18,High School,3.6,99.1,79,81,86,82.0,246,Pass
+1899,Isha Patel,Male,16,High School,3.1,68.3,79,69,68,72.0,216,Pass
+1309,Myra Khan,Female,18,Bachelor's,2.9,86.7,71,69,77,72.33,217,Pass
+1014,Olivia Gupta,Male,17,Master's,3.1,77.2,69,74,77,73.33,220,Pass
+1167,Aadhya Garcia,Male,18,Some College,3.4,96.8,60,50,52,54.0,162,Pass
+1532,Emma Johnson,Female,17,High School,3.2,61.8,36,34,50,40.0,120,Fail
+1665,Isabella Johnson,Male,17,Master's,1.2,78.4,83,75,58,72.0,216,Pass
+1319,Aarav Brown,Male,15,Bachelor's,6.3,85.4,85,98,100,94.33,283,Pass
+1705,Krishna Iyer,Male,18,Master's,3.2,85.8,73,67,83,74.33,223,Pass
+1364,Noah Reddy,Female,15,Master's,3.5,78.7,38,46,45,43.0,129,Fail
+1704,James Miller,Male,17,Master's,6.1,93.7,62,81,84,75.67,227,Pass
+1931,Robert Williams,Male,15,Master's,1.1,80.2,56,57,69,60.67,182,Pass
+1021,Harper Jones,Female,17,Bachelor's,7.3,95.3,78,83,99,86.67,260,Pass
+1798,Aarav Gupta,Female,15,Bachelor's,5.9,74.2,80,84,84,82.67,248,Pass
+1072,Pari Garcia,Male,15,Bachelor's,3.8,82.4,55,62,69,62.0,186,Pass
+2188,Aarav Rodriguez,Male,16,Bachelor's,4.6,95.5,57,68,52,59.0,177,Pass
+1588,Mason Sharma,Male,18,High School,7.6,85.4,84,94,92,90.0,270,Pass
+1061,Evelyn Brown,Male,16,Master's,7.2,75.0,52,59,54,55.0,165,Pass
+1409,Aadhya Patel,Female,15,PhD,4.4,88.0,73,87,68,76.0,228,Pass
+1111,William Martinez,Male,16,High School,1.8,66.2,65,73,75,71.0,213,Pass
+1005,Ananya Verma,Male,16,High School,5.4,81.1,58,60,88,68.67,206,Pass
+1833,Saanvi Jones,Male,15,High School,2.1,90.2,56,64,60,60.0,180,Pass
+1591,Amelia Reddy,Male,18,High School,9.0,82.6,91,93,100,94.67,284,Pass
+1564,Ava Brown,Male,15,Bachelor's,5.1,86.6,70,61,62,64.33,193,Pass
+1644,Michael Brown,Male,16,PhD,5.9,86.1,67,74,89,76.67,230,Pass
+1337,Ananya Davis,Female,17,Bachelor's,3.9,76.4,59,62,68,63.0,189,Pass
+1285,Pari Singh,Female,15,High School,3.6,94.2,50,65,83,66.0,198,Pass
+1610,Diya Garcia,Female,18,Master's,6.3,77.0,68,69,75,70.67,212,Pass
+1284,Abigail Iyer,Male,15,High School,2.8,89.5,63,57,73,64.33,193,Pass
+1792,Aditya Das,Female,18,High School,3.0,92.5,77,81,83,80.33,241,Pass
+2070,Michael Singh,Male,15,Some College,4.2,64.2,45,53,45,47.67,143,Pass
+1095,Mia Verma,Female,18,Some College,3.5,85.0,67,74,83,74.67,224,Pass
+1096,Mia Verma,Male,18,Master's,2.6,96.1,83,79,87,83.0,249,Pass
+1831,Isha Nair,Male,18,High School,5.6,85.9,50,76,66,64.0,192,Pass
+1518,Lucas Brown,Female,16,High School,9.3,67.9,78,100,80,86.0,258,Pass
+1748,James Miller,Female,18,Master's,5.7,100.0,67,82,82,77.0,231,Pass
+1830,Mason Singh,Male,17,High School,5.6,85.4,52,82,68,67.33,202,Pass
+1059,Emma Khan,Male,18,Master's,4.2,82.2,74,82,73,76.33,229,Pass
+1327,Diya Williams,Female,16,High School,6.7,76.7,78,77,81,78.67,236,Pass
+1307,Isabella Brown,Female,17,Bachelor's,3.4,81.3,42,58,66,55.33,166,Pass
+1923,Reyansh Patel,Female,15,Some College,5.3,84.0,90,75,62,75.67,227,Pass
+1025,Myra Singh,Male,17,Bachelor's,1.0,81.0,57,65,85,69.0,207,Pass
+1652,Krishna Rodriguez,Female,18,Some College,5.1,78.4,46,70,75,63.67,191,Pass
+1245,Ishaan Patel,Male,18,Master's,6.7,94.3,83,86,85,84.67,254,Pass
+1026,William Miller,Female,15,Some College,4.0,81.6,55,52,74,60.33,181,Pass
+1223,Vihaan Khan,Male,17,Bachelor's,8.1,68.7,93,72,89,84.67,254,Pass
+1901,Vihaan Reddy,Male,17,Bachelor's,2.9,89.8,31,33,48,37.33,112,Fail
+1106,Isabella Das,Male,15,Bachelor's,4.2,97.1,75,81,80,78.67,236,Pass
+2079,Ishaan Singh,Male,17,High School,5.2,94.0,50,81,68,66.33,199,Pass
+1131,Amelia Miller,Male,16,Some College,3.1,91.7,54,71,59,61.33,184,Pass
+1154,Arjun Jones,Male,15,High School,3.0,79.3,63,52,58,57.67,173,Pass
+1849,Abigail Singh,Female,16,Master's,2.6,76.3,57,58,82,65.67,197,Pass
+1954,Aarav Martinez,Female,15,Some College,5.9,73.9,81,82,72,78.33,235,Pass
+1335,Ethan Das,Male,17,Some College,3.3,83.2,53,49,64,55.33,166,Pass
+1136,Krishna Iyer,Male,16,Master's,3.2,85.8,73,52,63,62.67,188,Pass
+1076,Riya Johnson,Female,16,High School,0.8,71.9,43,60,52,51.67,155,Pass
+2164,Arjun Davis,Female,16,Master's,7.3,75.9,95,73,71,79.67,239,Pass
+2063,Isha Garcia,Female,15,PhD,2.0,91.9,81,60,84,75.0,225,Pass
+1453,William Das,Male,16,High School,4.5,81.0,78,62,61,67.0,201,Pass
+2142,Myra Singh,Male,17,Some College,7.0,88.4,65,81,65,70.33,211,Pass
+2084,Vihaan Johnson,Female,18,High School,4.4,81.9,76,60,72,69.33,208,Pass
+1431,Reyansh Johnson,Male,18,Bachelor's,4.2,83.1,81,78,77,78.67,236,Pass
+1200,Amelia Jones,Female,15,Master's,3.6,93.5,36,52,62,50.0,150,Fail
+1846,Mia Iyer,Male,16,Bachelor's,1.4,87.1,32,47,30,36.33,109,Fail
+1135,Aadhya Verma,Female,17,Bachelor's,4.0,56.2,52,70,71,64.33,193,Pass
+1964,Diya Garcia,Male,17,Bachelor's,5.1,74.4,67,74,68,69.67,209,Pass
+1260,Krishna Singh,Male,16,High School,2.9,90.6,68,69,81,72.67,218,Pass
+1596,James Williams,Male,18,Bachelor's,4.8,73.7,67,70,77,71.33,214,Pass
+1004,Kiara Rodriguez,Female,16,Master's,6.2,81.7,90,81,96,89.0,267,Pass
+2096,Ishaan Verma,Male,18,Master's,6.9,79.7,57,58,81,65.33,196,Pass
+1211,Vihaan Garcia,Female,15,Some College,4.8,90.2,77,83,81,80.33,241,Pass
+1197,Vivaan Nair,Female,16,Bachelor's,2.7,86.2,46,56,51,51.0,153,Pass
+1771,Ayaan Verma,Male,16,Master's,3.9,100.0,84,83,73,80.0,240,Pass
+1836,Aditya Das,Male,16,High School,1.7,72.5,48,62,65,58.33,175,Pass
+1027,Sophia Singh,Male,15,Some College,7.9,67.9,76,70,77,74.33,223,Pass
+1351,Evelyn Davis,Female,15,Bachelor's,3.6,82.9,60,71,79,70.0,210,Pass
+1474,Reyansh Reddy,Female,18,PhD,6.2,73.2,77,93,100,90.0,270,Pass
+2123,Aadhya Verma,Female,17,Master's,1.1,83.9,61,39,49,49.67,149,Fail
+1317,William Sharma,Male,18,High School,7.7,86.6,100,94,100,98.0,294,Pass
+1062,Kiara Verma,Male,18,Some College,1.1,92.9,58,61,69,62.67,188,Pass
+1907,Robert Sharma,Female,16,Master's,4.5,77.0,89,68,86,81.0,243,Pass
+2022,Isabella Sharma,Male,15,High School,2.5,78.6,40,53,57,50.0,150,Pass
+1447,Aarav Johnson,Female,18,Bachelor's,4.4,82.3,56,57,48,53.67,161,Pass
+1672,Lucas Miller,Female,17,High School,3.0,66.0,36,54,25,38.33,115,Fail
+1628,Vihaan Jones,Female,15,Master's,6.0,89.9,65,65,70,66.67,200,Pass
+1761,Mason Khan,Male,18,Master's,4.3,100.0,84,78,84,82.0,246,Pass
+1356,John Iyer,Female,15,High School,5.7,87.3,87,77,97,87.0,261,Pass
+2086,Mia Jones,Male,16,High School,4.0,85.0,34,39,64,45.67,137,Fail
+1505,Arjun Iyer,Female,15,High School,4.0,97.6,41,53,51,48.33,145,Pass
+1898,Aarav Smith,Female,17,High School,2.5,85.0,60,79,57,65.33,196,Pass
+1936,Ava Nair,Male,15,High School,3.5,85.4,77,69,80,75.33,226,Pass
+1009,Evelyn Jones,Female,15,Bachelor's,7.8,77.8,69,77,78,74.67,224,Pass
+1419,Krishna Singh,Female,18,PhD,7.9,72.6,67,80,78,75.0,225,Pass
+1599,Liam Iyer,Male,16,Some College,3.7,76.8,38,27,55,40.0,120,Fail
+2036,Krishna Verma,Female,17,Master's,6.5,78.7,84,72,81,79.0,237,Pass
+1511,Lucas Sharma,Female,16,Master's,4.0,83.9,82,85,97,88.0,264,Pass
+2032,Olivia Iyer,Female,17,PhD,0.5,79.0,53,64,62,59.67,179,Pass
+1807,Ava Iyer,Female,18,Bachelor's,6.7,88.8,84,76,100,86.67,260,Pass
+1464,Isha Iyer,Female,15,Bachelor's,2.4,96.8,67,67,53,62.33,187,Pass
+1075,Aadhya Smith,Female,17,High School,1.9,76.1,69,36,57,54.0,162,Fail
+1706,Anika Rodriguez,Female,17,High School,0.3,88.5,44,61,54,53.0,159,Pass
+1058,Saanvi Martinez,Male,17,Bachelor's,3.4,88.1,72,48,66,62.0,186,Pass
+2015,Vihaan Johnson,Female,17,High School,1.2,85.6,60,67,59,62.0,186,Pass
+1456,Saanvi Patel,Male,15,High School,2.4,81.4,69,42,76,62.33,187,Pass
+1298,Aarav Smith,Male,16,Master's,4.6,96.4,75,88,92,85.0,255,Pass
+2046,Aarav Williams,Female,15,Some College,3.6,100.0,40,69,61,56.67,170,Pass
+1218,Emma Smith,Female,17,Bachelor's,4.3,77.2,71,59,58,62.67,188,Pass
+1702,Pari Sharma,Male,15,Some College,1.8,73.4,60,58,75,64.33,193,Pass
+1659,Aadhya Patel,Female,17,Bachelor's,2.9,72.3,85,75,79,79.67,239,Pass
+2054,James Gupta,Female,17,Master's,5.3,84.3,70,65,81,72.0,216,Pass
+2029,James Das,Male,16,Bachelor's,1.9,88.7,50,60,83,64.33,193,Pass
+1674,Ayaan Williams,Female,16,High School,2.2,100.0,47,32,53,44.0,132,Fail
+1526,James Reddy,Male,18,Some College,6.6,85.1,74,62,79,71.67,215,Pass
+1856,Isabella Nair,Male,15,Bachelor's,2.9,91.8,57,68,47,57.33,172,Pass
+1692,Sai Davis,Male,17,Master's,0.0,96.9,62,64,73,66.33,199,Pass
+1975,Ethan Williams,Male,18,Bachelor's,7.0,90.1,87,90,75,84.0,252,Pass
+2000,Aadhya Das,Male,17,High School,4.0,100.0,50,63,65,59.33,178,Pass
+1267,Aditya Johnson,Female,16,Some College,4.6,89.5,61,75,75,70.33,211,Pass
+1007,Anika Gupta,Male,18,Master's,2.4,76.1,63,61,74,66.0,198,Pass
+1681,James Rodriguez,Female,17,High School,1.9,87.9,45,68,68,60.33,181,Pass
+1508,Arjun Reddy,Female,16,High School,5.8,85.4,46,50,54,50.0,150,Pass
+2082,Aditya Rodriguez,Male,16,High School,4.7,74.6,66,75,80,73.67,221,Pass
+1139,Amelia Iyer,Male,18,High School,5.7,75.1,75,74,65,71.33,214,Pass
+1164,Vihaan Sharma,Female,18,Bachelor's,5.6,81.5,89,98,87,91.33,274,Pass
+1723,Riya Verma,Male,15,Some College,2.7,80.3,24,26,57,35.67,107,Fail
+1698,Aadhya Gupta,Female,15,Bachelor's,8.6,75.1,76,82,78,78.67,236,Pass
+2065,Ava Brown,Male,18,Bachelor's,3.5,99.7,84,74,79,79.0,237,Pass
+1044,Noah Smith,Female,15,High School,4.1,82.6,66,69,81,72.0,216,Pass
+1755,Ethan Gupta,Male,18,Bachelor's,4.8,93.2,58,67,72,65.67,197,Pass
+2160,Ayaan Das,Male,15,Bachelor's,4.0,71.6,57,45,69,57.0,171,Pass
+1320,Myra Brown,Male,17,Bachelor's,3.1,98.9,88,92,89,89.67,269,Pass
+2163,Ava Patel,Male,16,PhD,5.2,85.3,65,62,83,70.0,210,Pass
+1783,Vihaan Davis,Male,15,High School,4.5,79.6,74,58,65,65.67,197,Pass
+1861,Isha Nair,Female,15,PhD,5.1,79.4,73,82,91,82.0,246,Pass
+1295,Vivaan Patel,Male,16,Bachelor's,0.0,82.8,62,67,77,68.67,206,Pass
+1408,Mia Reddy,Male,18,Master's,0.8,87.5,86,63,58,69.0,207,Pass
+2181,Sai Jones,Female,16,Bachelor's,5.6,92.0,97,73,91,87.0,261,Pass
+1703,Emma Khan,Male,16,Master's,5.3,77.4,63,65,59,62.33,187,Pass
+1971,John Reddy,Female,15,Bachelor's,3.5,100.0,74,71,78,74.33,223,Pass
+1020,Aditya Sharma,Male,16,High School,3.6,100.0,49,61,65,58.33,175,Pass
+1737,Krishna Khan,Male,16,Master's,4.3,77.2,81,81,72,78.0,234,Pass
+1452,Ethan Smith,Female,16,High School,3.3,92.8,51,66,60,59.0,177,Pass
+1468,Emma Iyer,Female,15,Some College,5.0,74.6,84,62,86,77.33,232,Pass
+1963,Reyansh Martinez,Male,15,Bachelor's,7.1,86.6,88,92,88,89.33,268,Pass
+2048,Robert Das,Male,15,High School,3.8,100.0,67,57,78,67.33,202,Pass
+1398,Ava Rodriguez,Male,15,High School,3.2,76.5,57,46,62,55.0,165,Pass
+1448,Arjun Gupta,Female,15,Bachelor's,4.9,96.1,48,57,63,56.0,168,Pass
+1138,Lucas Nair,Female,18,High School,5.2,75.8,100,85,87,90.67,272,Pass
+1699,Pari Miller,Male,16,Bachelor's,3.3,60.1,54,60,58,57.33,172,Pass
+1519,Ishaan Garcia,Female,16,Some College,8.1,77.2,64,85,81,76.67,230,Pass
+1186,Reyansh Jones,Female,17,Bachelor's,0.9,76.1,85,75,83,81.0,243,Pass
+1952,William Reddy,Female,15,Master's,8.8,80.5,66,72,83,73.67,221,Pass
+1413,Vivaan Williams,Female,17,High School,5.1,73.3,68,59,68,65.0,195,Pass
+2150,Isha Iyer,Female,15,Master's,5.8,72.2,84,79,73,78.67,236,Pass
+1510,Evelyn Khan,Female,18,High School,5.5,67.6,74,57,83,71.33,214,Pass
+2140,Myra Rodriguez,Female,15,High School,5.8,99.7,65,89,84,79.33,238,Pass
+1484,Isha Garcia,Female,18,Bachelor's,1.4,73.6,66,61,49,58.67,176,Pass
+1328,Liam Brown,Female,15,Bachelor's,2.1,92.7,79,83,84,82.0,246,Pass
+1318,Mia Brown,Male,16,Some College,4.2,80.8,39,46,51,45.33,136,Fail
+2198,Krishna Williams,Female,17,High School,2.5,75.5,16,31,35,27.33,82,Fail
+2161,Anika Verma,Female,17,Bachelor's,4.6,100.0,59,50,46,51.67,155,Pass
+1527,Mason Khan,Male,15,Bachelor's,6.0,91.4,78,72,78,76.0,228,Pass
+1721,Robert Miller,Female,17,Bachelor's,5.3,85.3,44,58,65,55.67,167,Pass
+1903,Saanvi Rodriguez,Male,17,Bachelor's,3.2,89.1,80,85,90,85.0,255,Pass
+2090,William Garcia,Male,17,High School,4.1,90.2,57,66,67,63.33,190,Pass
+2133,Ishaan Martinez,Male,16,PhD,6.2,85.4,87,79,80,82.0,246,Pass
+2185,Sai Patel,Male,15,Bachelor's,4.8,73.8,73,85,97,85.0,255,Pass
+1149,Robert Williams,Male,16,Master's,5.5,100.0,62,100,92,84.67,254,Pass
+1879,Ayaan Martinez,Male,18,Master's,5.3,77.6,88,90,93,90.33,271,Pass
+1984,Reyansh Das,Male,15,Master's,1.0,93.3,37,33,39,36.33,109,Fail
+1531,Reyansh Das,Female,15,Some College,4.0,75.0,80,92,92,88.0,264,Pass
+1753,Krishna Nair,Female,17,High School,0.0,80.7,38,52,43,44.33,133,Fail
+1970,Robert Singh,Male,17,Bachelor's,4.3,88.2,66,68,55,63.0,189,Pass
+1366,Ananya Martinez,Male,16,Master's,2.7,96.4,76,80,77,77.67,233,Pass
+1636,Mason Nair,Male,17,Master's,1.4,85.5,51,52,49,50.67,152,Pass
+1884,John Reddy,Male,18,Bachelor's,5.1,54.4,57,58,62,59.0,177,Pass
+1820,Ananya Sharma,Male,18,High School,6.0,84.1,68,63,71,67.33,202,Pass
+2141,Riya Martinez,Female,18,High School,3.4,93.0,44,69,72,61.67,185,Pass
+1934,Reyansh Reddy,Female,15,Bachelor's,4.7,76.3,87,91,83,87.0,261,Pass
+1489,Mason Miller,Female,15,High School,4.8,77.1,73,79,80,77.33,232,Pass
+1233,Mia Khan,Female,18,Bachelor's,4.0,78.5,79,71,86,78.67,236,Pass
+1735,Ishaan Brown,Male,18,High School,3.7,94.9,51,49,60,53.33,160,Pass
+1595,Myra Sharma,Female,17,Master's,5.3,100.0,49,64,69,60.67,182,Pass
+1800,Ethan Smith,Female,17,High School,3.7,73.5,88,86,85,86.33,259,Pass
+1725,Mia Davis,Female,16,Some College,3.6,74.7,61,61,63,61.67,185,Pass
+1159,Riya Miller,Male,16,Master's,2.9,88.5,62,61,78,67.0,201,Pass
+1316,William Verma,Female,18,PhD,4.8,97.6,78,71,73,74.0,222,Pass
+1257,Mia Singh,Female,17,High School,2.5,89.5,53,50,60,54.33,163,Pass
+1752,Lucas Williams,Female,17,PhD,4.0,76.1,60,86,74,73.33,220,Pass
+1097,Kiara Verma,Female,15,Master's,1.7,86.4,39,53,52,48.0,144,Fail
+2175,Olivia Patel,Female,15,Bachelor's,4.0,83.5,84,68,73,75.0,225,Pass
+2045,Vihaan Sharma,Female,18,Master's,4.0,92.1,100,100,100,100.0,300,Pass
+1385,Noah Johnson,Female,16,Bachelor's,2.3,85.4,71,62,60,64.33,193,Pass
+2016,Sophia Verma,Female,15,High School,2.8,85.4,62,56,57,58.33,175,Pass
+1178,Isha Nair,Male,15,High School,7.5,76.1,74,71,70,71.67,215,Pass
+1329,Pari Davis,Male,17,High School,1.9,85.3,40,52,39,43.67,131,Fail
+1416,Ananya Das,Male,16,Bachelor's,4.8,75.3,68,59,49,58.67,176,Pass
+1358,Kiara Das,Female,18,Master's,4.7,85.6,77,68,84,76.33,229,Pass
+1348,Evelyn Martinez,Male,15,Bachelor's,7.0,93.8,77,86,76,79.67,239,Pass
+2166,Olivia Miller,Female,17,PhD,6.7,100.0,100,98,100,99.33,298,Pass
+1299,Aditya Martinez,Female,16,Master's,5.4,78.2,70,73,73,72.0,216,Pass
+1552,Vivaan Das,Female,17,Bachelor's,4.0,91.9,67,88,74,76.33,229,Pass
+1799,Saanvi Jones,Female,17,High School,1.4,86.8,34,35,41,36.67,110,Fail
+1938,Aarav Reddy,Female,18,Bachelor's,1.6,95.3,62,69,56,62.33,187,Pass
+1695,Isha Das,Male,16,Bachelor's,5.4,79.7,68,67,75,70.0,210,Pass
+1802,Anika Gupta,Male,18,Some College,3.8,87.0,54,62,60,58.67,176,Pass
+1649,Isha Patel,Female,15,Bachelor's,3.6,89.4,58,53,66,59.0,177,Pass
+1250,Aditya Das,Female,15,High School,3.9,80.2,47,66,67,60.0,180,Pass
+1790,Saanvi Verma,Female,18,High School,6.9,73.7,59,59,73,63.67,191,Pass
+1016,Ava Jones,Male,15,Bachelor's,6.1,68.3,77,83,88,82.67,248,Pass
+2126,Abigail Rodriguez,Female,16,Some College,3.7,80.1,55,55,68,59.33,178,Pass
+1160,Emma Singh,Female,17,High School,2.3,100.0,55,51,78,61.33,184,Pass
+1965,Myra Smith,Male,18,Bachelor's,3.8,83.7,48,51,54,51.0,153,Pass
+1762,Ethan Iyer,Male,18,Bachelor's,5.0,97.5,73,88,82,81.0,243,Pass
+1361,Saanvi Davis,Male,18,Bachelor's,2.4,87.0,66,62,78,68.67,206,Pass
+1049,Michael Patel,Female,16,Some College,8.5,85.4,100,100,100,100.0,300,Pass
+1509,Sai Reddy,Female,16,High School,2.8,82.2,58,63,60,60.33,181,Pass
+1331,Noah Smith,Male,15,Master's,4.2,92.6,53,56,59,56.0,168,Pass
+1548,Sai Verma,Female,18,Bachelor's,6.1,83.2,71,61,67,66.33,199,Pass
+1680,Sophia Singh,Female,17,High School,1.8,91.2,68,58,58,61.33,184,Pass
+1113,Sai Miller,Female,18,High School,2.1,89.4,60,49,64,57.67,173,Pass
+1339,Krishna Rodriguez,Male,17,High School,5.0,72.8,56,67,64,62.33,187,Pass
+1308,Sai Gupta,Male,15,Master's,4.8,81.7,69,73,82,74.67,224,Pass
+2165,Emma Martinez,Male,17,Some College,6.1,82.4,87,78,78,81.0,243,Pass
+1423,James Johnson,Male,18,Some College,2.9,85.9,69,81,64,71.33,214,Pass
+1417,Kiara Miller,Male,16,PhD,6.2,88.8,77,82,83,80.67,242,Pass
+2191,James Reddy,Male,15,Bachelor's,0.7,94.7,65,54,66,61.67,185,Pass
+1507,James Das,Female,16,Bachelor's,2.4,81.9,74,89,93,85.33,256,Pass
+1779,Isabella Das,Female,17,Master's,2.7,100.0,86,94,98,92.67,278,Pass
+1840,Isabella Jones,Female,17,High School,2.7,85.2,73,72,87,77.33,232,Pass
+1757,Kiara Patel,Female,18,High School,5.2,85.2,47,56,61,54.67,164,Pass
+1396,Kiara Rodriguez,Female,18,Bachelor's,2.5,92.6,74,74,87,78.33,235,Pass
+2105,Michael Verma,Female,15,High School,7.5,63.6,52,83,87,74.0,222,Pass
+1460,Aadhya Verma,Male,16,PhD,0.0,98.2,64,76,73,71.0,213,Pass
+1559,James Martinez,Female,17,Bachelor's,2.6,87.7,84,86,82,84.0,252,Pass
+1128,Pari Smith,Female,15,High School,2.7,83.2,31,41,42,38.0,114,Fail
+1512,Michael Reddy,Male,18,Master's,4.0,94.9,80,91,80,83.67,251,Pass
+1926,Mia Verma,Male,17,Some College,4.1,79.5,55,70,68,64.33,193,Pass
+1529,Riya Smith,Male,16,Some College,3.4,86.9,59,57,61,59.0,177,Pass
+1592,Isabella Nair,Female,18,High School,5.6,86.3,79,73,93,81.67,245,Pass
+1450,Abigail Gupta,Male,18,Some College,3.8,95.1,83,81,82,82.0,246,Pass
+1238,Lucas Johnson,Male,15,Bachelor's,4.9,63.7,55,60,61,58.67,176,Pass
+1168,Arjun Patel,Male,15,Bachelor's,3.0,91.4,74,60,66,66.67,200,Pass
+1621,Myra Verma,Male,17,PhD,6.0,76.4,68,69,82,73.0,219,Pass
+1942,Ishaan Brown,Female,18,Some College,1.3,87.4,59,42,69,56.67,170,Pass
+1081,Ayaan Rodriguez,Female,17,Bachelor's,3.5,92.4,62,82,61,68.33,205,Pass
+1415,Noah Verma,Female,17,Bachelor's,2.7,94.8,81,61,75,72.33,217,Pass
+1843,Abigail Khan,Male,17,Master's,5.0,75.3,78,87,100,88.33,265,Pass
+1301,Riya Nair,Male,15,Master's,3.6,85.4,60,55,60,58.33,175,Pass
+1633,Evelyn Patel,Female,15,High School,5.3,88.9,61,66,63,63.33,190,Pass
+1325,Vihaan Jones,Female,17,Some College,0.7,90.4,64,54,49,55.67,167,Pass
+1490,Sai Reddy,Female,16,Master's,3.6,100.0,74,63,74,70.33,211,Pass
+1216,Vivaan Miller,Male,15,Master's,4.8,100.0,85,96,84,88.33,265,Pass
+1612,James Gupta,Female,17,Bachelor's,5.3,66.1,79,87,85,83.67,251,Pass
+1031,Michael Gupta,Female,15,High School,3.1,100.0,63,78,71,70.67,212,Pass
+1243,Lucas Khan,Female,15,Bachelor's,0.0,83.0,39,49,37,41.67,125,Fail
+1719,Ayaan Brown,Male,17,Bachelor's,4.3,99.9,77,91,76,81.33,244,Pass
+1887,Liam Brown,Female,16,High School,4.2,91.9,55,73,62,63.33,190,Pass
+1986,Isha Smith,Male,15,Some College,5.9,72.9,62,72,74,69.33,208,Pass
+1210,Ethan Brown,Male,16,High School,7.3,97.2,65,72,69,68.67,206,Pass
+2062,Sophia Singh,Female,16,High School,4.3,100.0,84,100,87,90.33,271,Pass
+2019,Ethan Singh,Female,18,Master's,4.1,81.5,72,58,74,68.0,204,Pass
+1969,Ayaan Sharma,Female,18,Some College,1.1,76.4,44,61,62,55.67,167,Pass
+1436,Sophia Jones,Female,16,Bachelor's,6.1,84.2,54,73,72,66.33,199,Pass
+1028,Kiara Brown,Female,16,Bachelor's,3.7,79.4,65,71,57,64.33,193,Pass
+2076,Robert Williams,Male,16,High School,4.9,100.0,46,52,56,51.33,154,Pass
+1639,Mia Singh,Male,18,High School,5.3,86.5,54,63,59,58.67,176,Pass
+1123,Ishaan Das,Male,17,Some College,5.1,72.2,66,80,66,70.67,212,Pass
+2102,Harper Miller,Female,15,Master's,4.0,70.3,72,77,71,73.33,220,Pass
+1463,Liam Nair,Female,17,Some College,1.3,79.9,42,48,58,49.33,148,Pass
+2043,Sophia Martinez,Male,15,Master's,0.0,93.4,95,84,81,86.67,260,Pass
+2134,Liam Reddy,Male,15,Master's,6.9,76.6,57,80,71,69.33,208,Pass
+1622,Vivaan Gupta,Male,17,Bachelor's,0.7,77.6,60,52,66,59.33,178,Pass
+1961,Sai Khan,Male,15,Master's,0.8,95.1,56,69,58,61.0,183,Pass
+2049,Ananya Patel,Female,17,Master's,3.1,89.8,58,55,89,67.33,202,Pass
+1744,Vivaan Miller,Female,16,Some College,4.7,83.8,83,87,94,88.0,264,Pass
+1627,Robert Gupta,Male,15,High School,5.1,82.6,62,77,82,73.67,221,Pass
+1689,Olivia Patel,Female,17,High School,4.6,87.7,60,43,58,53.67,161,Pass
+1832,Aditya Iyer,Male,15,Bachelor's,4.5,86.0,66,63,79,69.33,208,Pass
+2194,Vihaan Khan,Female,17,Some College,5.3,100.0,85,85,93,87.67,263,Pass
+1203,James Smith,Male,15,High School,1.9,78.6,59,63,60,60.67,182,Pass
+1404,Liam Singh,Female,15,Master's,3.1,96.5,73,81,72,75.33,226,Pass
+2146,Anika Nair,Female,15,Master's,5.1,82.4,67,85,86,79.33,238,Pass
+2197,Ishaan Reddy,Female,15,High School,3.2,83.5,63,55,81,66.33,199,Pass
+1363,Amelia Williams,Male,16,High School,7.6,78.0,77,73,68,72.67,218,Pass
+1272,Ethan Martinez,Female,17,Bachelor's,9.1,88.4,82,92,85,86.33,259,Pass
+1467,Ishaan Gupta,Male,18,Master's,1.8,98.3,48,59,59,55.33,166,Pass
+2077,Arjun Patel,Male,18,High School,2.9,85.4,60,70,60,63.33,190,Pass
+1240,James Miller,Male,18,Master's,4.8,81.8,69,77,76,74.0,222,Pass
+1278,Diya Miller,Female,17,Master's,2.1,93.5,67,61,59,62.33,187,Pass
+2075,Robert Martinez,Female,18,Some College,4.3,81.0,57,46,62,55.0,165,Pass
+1707,Evelyn Patel,Male,15,High School,3.7,81.4,66,57,61,61.33,184,Pass
+1688,Vivaan Verma,Male,15,High School,2.5,92.6,60,73,77,70.0,210,Pass
+1443,Robert Khan,Male,16,High School,5.9,82.8,63,64,71,66.0,198,Pass
+1300,Robert Reddy,Male,17,Bachelor's,3.8,69.6,70,52,70,64.0,192,Pass
+1376,Aarav Verma,Male,15,Some College,4.7,84.1,83,81,86,83.33,250,Pass
+1658,Ananya Gupta,Male,17,High School,3.9,78.1,43,43,67,51.0,153,Pass
+1791,John Rodriguez,Male,17,Bachelor's,5.4,80.8,87,92,81,86.67,260,Pass
+1675,Robert Jones,Male,15,Bachelor's,2.6,80.9,63,52,72,62.33,187,Pass
+1473,Pari Miller,Male,17,High School,3.7,92.2,54,56,70,60.0,180,Pass
+1573,Isha Iyer,Male,16,Master's,6.2,100.0,84,81,100,88.33,265,Pass
+2095,Myra Das,Male,15,Bachelor's,2.2,100.0,92,75,72,79.67,239,Pass
+1389,Aarav Williams,Female,16,Master's,3.9,86.4,53,72,62,62.33,187,Pass
+1023,William Johnson,Male,18,High School,3.7,92.8,67,69,84,73.33,220,Pass
+1929,Ananya Sharma,Female,17,Bachelor's,2.8,91.6,72,73,64,69.67,209,Pass
+1892,Sophia Davis,Female,18,Some College,4.2,82.5,47,61,68,58.67,176,Pass
+1424,Noah Rodriguez,Male,17,Master's,2.5,79.0,53,58,68,59.67,179,Pass
+1972,Abigail Gupta,Female,17,Master's,2.3,83.2,66,67,61,64.67,194,Pass
+1732,Sophia Patel,Female,18,Master's,5.8,92.8,70,74,85,76.33,229,Pass
+1663,John Patel,Female,15,PhD,2.0,71.7,47,53,52,50.67,152,Pass
+1336,William Verma,Male,15,High School,1.4,90.8,29,48,68,48.33,145,Fail
+1143,Michael Smith,Male,17,Bachelor's,4.9,94.1,65,57,84,68.67,206,Pass
+1051,Noah Jones,Female,17,Master's,8.2,93.0,64,79,90,77.67,233,Pass
+1686,John Johnson,Female,17,Bachelor's,5.4,100.0,56,66,75,65.67,197,Pass
+1749,Liam Nair,Female,15,Master's,3.4,78.4,69,48,58,58.33,175,Pass
+1082,Riya Nair,Female,16,Master's,6.2,98.9,97,85,99,93.67,281,Pass
+1483,Liam Reddy,Male,15,Bachelor's,4.4,88.6,72,69,74,71.67,215,Pass
+1322,Sai Williams,Female,15,High School,3.6,78.3,55,69,65,63.0,189,Pass
+1983,Anika Johnson,Male,18,High School,6.0,80.1,68,56,49,57.67,173,Pass
+2072,Sophia Das,Male,17,Bachelor's,3.8,92.7,80,62,70,70.67,212,Pass
+2154,Pari Khan,Female,15,Master's,6.4,96.7,78,89,86,84.33,253,Pass
+1067,Liam Patel,Male,17,Master's,7.1,85.8,69,78,82,76.33,229,Pass
+2178,Lucas Jones,Male,17,Bachelor's,1.8,67.3,32,40,41,37.67,113,Fail
+1624,Evelyn Nair,Male,17,Some College,2.6,82.5,71,81,63,71.67,215,Pass
+2171,Michael Das,Female,15,PhD,5.5,97.4,71,83,77,77.0,231,Pass
+1418,Abigail Davis,Male,18,High School,8.4,94.0,91,88,76,85.0,255,Pass
+1890,Diya Miller,Male,17,High School,2.4,99.4,75,91,56,74.0,222,Pass
+1065,Krishna Nair,Male,16,High School,4.1,85.4,71,77,69,72.33,217,Pass
+1925,Amelia Williams,Male,17,High School,4.8,71.9,61,63,61,61.67,185,Pass
+1916,Isha Rodriguez,Male,17,High School,2.9,68.4,84,69,82,78.33,235,Pass
+1717,Emma Khan,Female,18,Bachelor's,3.0,81.7,67,70,82,73.0,219,Pass
+1492,Olivia Jones,Female,16,Bachelor's,2.3,81.8,88,74,82,81.33,244,Pass
+1722,Pari Davis,Male,17,High School,2.7,73.4,59,73,72,68.0,204,Pass
+1814,Anika Martinez,Female,16,Bachelor's,2.1,81.9,46,67,57,56.67,170,Pass
+1066,Krishna Khan,Female,16,High School,5.1,94.2,62,74,67,67.67,203,Pass
+2003,Sophia Singh,Female,15,Bachelor's,7.9,99.6,87,77,87,83.67,251,Pass
+1586,Aditya Davis,Male,16,Master's,4.1,97.4,79,89,80,82.67,248,Pass
+2061,Pari Jones,Female,16,Bachelor's,5.9,97.0,63,98,83,81.33,244,Pass
+1297,Olivia Patel,Female,15,Some College,7.6,100.0,66,83,100,83.0,249,Pass
+1420,Aadhya Davis,Female,17,Some College,4.3,85.4,55,46,48,49.67,149,Pass
+1439,Robert Johnson,Female,15,High School,4.7,76.2,67,66,79,70.67,212,Pass
+1262,Evelyn Reddy,Female,18,High School,0.6,94.7,50,50,33,44.33,133,Fail
+1715,Diya Garcia,Male,17,High School,4.2,93.1,53,49,75,59.0,177,Pass
+1282,Isabella Williams,Male,18,High School,6.1,86.5,69,58,69,65.33,196,Pass
+1650,Ava Martinez,Male,18,High School,4.5,77.1,51,55,55,53.67,161,Pass
+1697,Lucas Singh,Male,16,Bachelor's,3.0,93.7,60,60,50,56.67,170,Pass
+1189,Noah Miller,Female,17,Bachelor's,4.0,71.5,79,85,90,84.67,254,Pass
+2064,Evelyn Brown,Male,18,Bachelor's,1.6,86.2,70,78,67,71.67,215,Pass
+1252,Ananya Khan,Male,15,High School,2.2,86.6,50,61,60,57.0,171,Pass
+1888,Ethan Davis,Male,16,High School,4.4,81.2,73,86,74,77.67,233,Pass
+1515,Michael Reddy,Male,18,Bachelor's,3.4,81.7,100,83,67,83.33,250,Pass
+1657,William Brown,Male,16,Some College,2.5,84.7,55,64,53,57.33,172,Pass
+1488,Ananya Williams,Male,15,Bachelor's,3.1,80.7,84,84,89,85.67,257,Pass
+1274,Mia Iyer,Female,16,High School,2.9,90.4,58,66,62,62.0,186,Pass
+1977,Emma Reddy,Female,17,Master's,4.4,84.0,55,62,72,63.0,189,Pass
+2089,Isabella Iyer,Female,15,High School,2.3,86.2,59,42,55,52.0,156,Pass
+1449,Aarav Reddy,Male,18,Bachelor's,1.0,100.0,46,52,65,54.33,163,Pass
+1412,Diya Singh,Female,15,Bachelor's,3.4,95.3,42,60,57,53.0,159,Pass
+1870,Ayaan Brown,Female,16,High School,4.9,92.0,67,57,68,64.0,192,Pass
+1739,Pari Nair,Male,16,Master's,4.0,73.6,67,77,76,73.33,220,Pass
+1951,Michael Smith,Female,15,Master's,1.9,87.5,53,75,65,64.33,193,Pass
+1967,Reyansh Reddy,Female,16,Some College,0.0,91.8,51,54,64,56.33,169,Pass
+1150,Myra Davis,Male,16,Bachelor's,5.0,64.9,72,84,68,74.67,224,Pass
+1219,Reyansh Johnson,Female,18,High School,2.0,74.6,43,53,48,48.0,144,Pass
+1740,Olivia Verma,Male,17,Master's,7.3,100.0,100,95,85,93.33,280,Pass
+1193,Aadhya Das,Female,16,High School,6.4,100.0,80,79,78,79.0,237,Pass
+1192,Lucas Singh,Female,18,High School,4.3,71.2,64,65,59,62.67,188,Pass
+1603,Ethan Iyer,Male,15,Master's,3.7,85.4,63,72,60,65.0,195,Pass
+1741,Sophia Nair,Male,15,PhD,4.4,91.2,53,59,66,59.33,178,Pass
+1619,Olivia Gupta,Female,17,Bachelor's,0.0,86.5,45,62,46,51.0,153,Pass
+2116,Aarav Miller,Female,15,High School,3.6,86.8,81,88,83,84.0,252,Pass
+1937,James Singh,Male,15,High School,4.0,78.3,56,52,56,54.67,164,Pass
+1958,Olivia Das,Male,17,High School,3.4,82.8,53,68,54,58.33,175,Pass
+1730,Kiara Patel,Male,18,High School,4.6,91.9,49,55,69,57.67,173,Pass
+1583,Diya Verma,Male,16,Master's,1.6,77.0,57,73,66,65.33,196,Pass
+2124,Vihaan Rodriguez,Female,15,Bachelor's,2.6,97.4,79,78,75,77.33,232,Pass
+1324,James Verma,Male,15,Master's,3.7,91.6,86,78,94,86.0,258,Pass
+1949,Harper Miller,Female,17,High School,6.0,90.7,60,76,55,63.67,191,Pass
+1876,Isha Miller,Male,18,Some College,5.1,94.5,81,89,85,85.0,255,Pass
+1678,Kiara Patel,Male,18,Some College,0.0,86.1,36,35,38,36.33,109,Fail
+1438,Liam Jones,Female,15,Bachelor's,4.0,100.0,56,72,47,58.33,175,Pass
+1794,James Brown,Female,16,Bachelor's,0.0,83.4,71,56,72,66.33,199,Pass
+1859,Aadhya Williams,Female,15,PhD,4.6,86.6,63,67,61,63.67,191,Pass
+1342,Ava Brown,Male,15,Master's,2.2,100.0,85,77,98,86.67,260,Pass
+1003,Mason Nair,Female,17,Bachelor's,3.4,90.5,61,70,59,63.33,190,Pass
+1230,Emma Iyer,Female,15,High School,2.9,99.6,53,40,61,51.33,154,Pass
+1666,Lucas Smith,Male,15,High School,0.0,95.8,63,70,72,68.33,205,Pass
+2170,Myra Verma,Male,15,Master's,4.0,91.8,51,63,61,58.33,175,Pass
+1077,Robert Johnson,Female,16,High School,4.8,98.5,74,72,90,78.67,236,Pass
+2119,Riya Miller,Male,15,Bachelor's,1.5,75.2,53,42,57,50.67,152,Pass
+1372,Sophia Nair,Male,15,Some College,7.6,97.3,70,76,81,75.67,227,Pass
+1181,Robert Rodriguez,Male,16,Master's,6.0,74.0,81,79,91,83.67,251,Pass
+1733,Ishaan Verma,Female,15,High School,2.6,75.4,67,54,59,60.0,180,Pass
+1578,James Singh,Female,17,Bachelor's,4.4,87.7,84,79,79,80.67,242,Pass
+1758,Robert Singh,Female,16,High School,2.3,100.0,55,85,84,74.67,224,Pass
+1782,Robert Nair,Female,18,Bachelor's,4.3,100.0,94,88,87,89.67,269,Pass
+2115,Diya Garcia,Female,16,Bachelor's,2.7,96.4,72,71,66,69.67,209,Pass
+2028,Amelia Das,Female,15,High School,4.7,77.0,69,85,81,78.33,235,Pass
+1667,James Iyer,Male,18,PhD,5.4,81.4,62,75,75,70.67,212,Pass
+1590,Noah Garcia,Male,17,High School,6.6,95.1,77,85,86,82.67,248,Pass
+1796,Ananya Khan,Female,17,Bachelor's,5.2,100.0,61,60,78,66.33,199,Pass
+1838,Diya Verma,Male,17,Bachelor's,6.2,92.0,54,55,57,55.33,166,Pass
+1991,Harper Jones,Female,15,Some College,5.0,85.1,69,73,75,72.33,217,Pass
+2088,Robert Davis,Male,17,Bachelor's,0.0,78.3,58,67,71,65.33,196,Pass
+1038,Michael Singh,Male,18,High School,2.1,83.8,46,43,74,54.33,163,Pass
+1354,Olivia Brown,Male,15,Bachelor's,3.7,75.7,59,56,60,58.33,175,Pass
+2111,Sophia Patel,Female,16,Bachelor's,2.9,89.6,77,68,83,76.0,228,Pass
+1237,Arjun Jones,Male,15,Bachelor's,3.2,84.8,80,81,96,85.67,257,Pass
+1960,Ethan Iyer,Female,16,Master's,2.2,85.9,86,77,88,83.67,251,Pass
+1500,Isabella Williams,Female,18,Master's,1.0,85.0,63,79,84,75.33,226,Pass
+1554,Evelyn Johnson,Female,17,PhD,4.8,78.4,89,79,93,87.0,261,Pass
+1056,Mason Sharma,Female,16,High School,9.0,67.5,68,48,79,65.0,195,Pass
+1303,Kiara Iyer,Female,15,High School,5.6,67.6,61,69,61,63.67,191,Pass
+1287,Sai Davis,Male,15,High School,0.9,70.4,76,59,71,68.67,206,Pass
+1825,Ava Rodriguez,Female,16,Bachelor's,1.9,84.2,81,61,72,71.33,214,Pass
+1220,Ishaan Khan,Female,17,High School,5.9,91.5,74,61,65,66.67,200,Pass
+2145,Arjun Johnson,Male,18,Some College,3.5,85.4,81,73,71,75.0,225,Pass
+1388,Ayaan Smith,Male,16,High School,4.7,100.0,63,78,73,71.33,214,Pass
+1759,Ananya Garcia,Female,16,Some College,1.5,90.5,70,53,69,64.0,192,Pass
+1391,Michael Miller,Female,17,High School,6.9,100.0,71,69,73,71.0,213,Pass
+1353,Lucas Khan,Female,18,High School,4.6,100.0,69,95,80,81.33,244,Pass
+1194,Vivaan Brown,Female,16,Bachelor's,4.1,69.3,83,80,81,81.33,244,Pass
+1236,Ishaan Sharma,Female,17,Some College,4.0,77.6,59,50,41,50.0,150,Pass
+2025,John Johnson,Female,17,Bachelor's,6.1,78.8,63,83,77,74.33,223,Pass
+1481,Isha Williams,Female,17,Bachelor's,7.6,88.0,79,78,97,84.67,254,Pass
+1568,Ayaan Johnson,Male,18,Master's,3.7,87.0,71,64,69,68.0,204,Pass
+1117,Abigail Johnson,Female,17,Bachelor's,5.2,70.1,86,80,70,78.67,236,Pass
+1891,Kiara Miller,Female,16,High School,4.9,69.2,59,55,62,58.67,176,Pass
+1654,Mia Singh,Female,17,Bachelor's,4.9,81.9,67,72,94,77.67,233,Pass
+2080,Reyansh Khan,Female,15,Some College,6.6,71.2,58,67,70,65.0,195,Pass
+2122,Aadhya Sharma,Female,18,Some College,4.8,88.6,78,66,71,71.67,215,Pass
+1789,Arjun Iyer,Male,18,PhD,5.6,95.9,73,84,83,80.0,240,Pass
+1801,Mia Rodriguez,Female,18,Bachelor's,3.5,100.0,82,83,94,86.33,259,Pass
+1121,Ishaan Gupta,Female,16,Master's,5.1,84.2,49,47,59,51.67,155,Pass
+1841,Lucas Rodriguez,Male,16,PhD,2.9,81.1,71,58,58,62.33,187,Pass
+2034,Saanvi Williams,Male,17,Master's,4.1,86.2,72,92,74,79.33,238,Pass
+1797,Vihaan Rodriguez,Female,18,High School,3.8,90.3,65,70,68,67.67,203,Pass
+1063,Abigail Smith,Female,17,PhD,2.8,74.4,68,88,74,76.67,230,Pass
+1700,Saanvi Nair,Male,18,Bachelor's,5.2,79.9,94,79,92,88.33,265,Pass
+1454,James Brown,Female,15,Some College,3.0,73.9,67,72,70,69.67,209,Pass
+1516,James Johnson,Male,15,High School,3.6,84.7,59,68,66,64.33,193,Pass
+1571,Evelyn Martinez,Female,15,Bachelor's,4.9,91.7,55,65,48,56.0,168,Pass
+1224,Aarav Johnson,Male,16,High School,3.4,78.6,60,61,60,60.33,181,Pass
+1614,Riya Smith,Male,17,High School,1.8,83.8,45,52,52,49.67,149,Pass
+1222,Mia Martinez,Female,15,PhD,3.1,90.6,73,67,81,73.67,221,Pass
+1745,Diya Gupta,Male,16,Master's,1.7,75.3,63,71,72,68.67,206,Pass
+1818,Noah Nair,Male,17,Bachelor's,1.0,81.5,60,70,67,65.67,197,Pass
+1466,Vihaan Martinez,Male,18,Bachelor's,3.7,89.0,84,88,100,90.67,272,Pass
+1053,Mason Das,Female,16,Bachelor's,3.3,73.4,72,57,74,67.67,203,Pass
+2109,Robert Khan,Female,16,High School,4.5,79.3,75,73,89,79.0,237,Pass
+1486,Mason Davis,Female,18,Bachelor's,7.5,76.5,60,70,86,72.0,216,Pass
+2156,Robert Rodriguez,Female,18,Bachelor's,4.0,87.9,64,48,48,53.33,160,Pass
+1946,Mia Brown,Male,17,PhD,2.8,84.7,49,50,51,50.0,150,Pass
+1156,Ethan Sharma,Male,16,Master's,3.1,87.4,82,85,85,84.0,252,Pass
+1944,Harper Verma,Female,17,High School,2.2,92.9,57,62,65,61.33,184,Pass
+1601,Mason Reddy,Male,18,Some College,4.1,95.9,63,76,76,71.67,215,Pass
+1902,Riya Jones,Male,17,High School,3.8,100.0,71,76,91,79.33,238,Pass
+1249,James Davis,Female,16,High School,6.7,85.8,76,87,96,86.33,259,Pass
+1442,Aditya Rodriguez,Female,18,PhD,0.9,86.0,53,54,42,49.67,149,Pass
+2012,William Davis,Female,16,Some College,7.6,89.8,53,49,85,62.33,187,Pass
+2112,Saanvi Nair,Male,15,Master's,3.5,86.3,48,56,64,56.0,168,Pass
+1543,Anika Verma,Male,15,Some College,4.0,72.2,45,61,66,57.33,172,Pass
+1118,Mia Williams,Male,15,High School,5.1,100.0,75,74,76,75.0,225,Pass
+2174,Harper Martinez,Male,15,High School,2.1,83.1,59,62,68,63.0,189,Pass
+1629,Harper Jones,Male,17,Master's,5.3,56.4,66,71,86,74.33,223,Pass
+1734,Ananya Williams,Female,17,Bachelor's,5.5,90.3,74,93,86,84.33,253,Pass
+1948,William Gupta,Female,17,Bachelor's,0.8,86.5,41,34,50,41.67,125,Fail
+1292,Ethan Brown,Male,16,Master's,6.2,89.2,63,63,70,65.33,196,Pass
+2056,Isha Williams,Male,16,PhD,2.2,74.4,84,79,78,80.33,241,Pass
+1382,Kiara Miller,Female,17,High School,3.4,97.3,39,48,49,45.33,136,Fail
+1904,Sai Garcia,Female,18,Some College,0.4,70.2,75,61,80,72.0,216,Pass
+1837,James Garcia,Female,15,Bachelor's,6.4,100.0,91,98,85,91.33,274,Pass
+1201,Mia Jones,Female,15,High School,4.4,80.6,60,65,57,60.67,182,Pass
+1597,Ethan Reddy,Female,15,High School,3.2,75.5,60,69,60,63.0,189,Pass
+2013,Isha Nair,Female,17,Master's,2.0,79.4,53,70,70,64.33,193,Pass
+2153,Mason Williams,Female,15,Bachelor's,5.0,77.0,74,67,87,76.0,228,Pass
+1713,Isha Johnson,Male,18,High School,1.8,90.7,58,75,74,69.0,207,Pass
+1506,Pari Miller,Male,17,Bachelor's,2.9,83.0,45,54,49,49.33,148,Pass
+1349,Sophia Martinez,Male,16,Master's,5.9,59.6,63,56,63,60.67,182,Pass
+1538,Isha Rodriguez,Male,15,Master's,1.5,100.0,85,88,92,88.33,265,Pass
+1341,James Patel,Male,15,Bachelor's,4.5,100.0,99,91,100,96.67,290,Pass
+1616,John Miller,Female,18,Bachelor's,2.4,78.7,82,83,76,80.33,241,Pass
+1155,John Jones,Female,15,Bachelor's,3.6,86.7,88,92,100,93.33,280,Pass
+2120,Isha Smith,Male,18,High School,6.2,82.5,55,81,71,69.0,207,Pass
+1786,Anika Williams,Female,16,Bachelor's,4.7,76.5,67,81,87,78.33,235,Pass
+1078,Saanvi Williams,Male,15,Bachelor's,2.7,85.4,75,59,61,65.0,195,Pass
+1288,Ayaan Khan,Female,16,High School,5.1,91.9,77,68,62,69.0,207,Pass
+1323,Ethan Singh,Female,16,High School,3.2,86.5,57,68,68,64.33,193,Pass
+2147,Mason Iyer,Female,18,Master's,5.0,68.1,77,81,97,85.0,255,Pass
+1844,Isabella Khan,Female,18,Master's,4.1,93.4,56,74,81,70.33,211,Pass
+1821,Michael Jones,Female,17,Master's,3.6,100.0,81,72,89,80.67,242,Pass
+1083,Riya Rodriguez,Male,18,Bachelor's,4.8,90.7,71,83,88,80.67,242,Pass
+1817,Isha Garcia,Female,17,Master's,4.4,88.5,56,40,65,53.67,161,Pass
+1465,Vihaan Jones,Female,17,PhD,2.3,88.4,59,65,55,59.67,179,Pass
+1935,Riya Gupta,Male,16,High School,3.1,76.0,34,39,51,41.33,124,Fail
+1780,Amelia Iyer,Female,16,Bachelor's,4.1,86.4,91,90,94,91.67,275,Pass
+2186,Mia Verma,Female,18,Bachelor's,6.7,74.8,70,74,60,68.0,204,Pass
+1795,James Johnson,Male,17,Master's,4.4,74.9,85,93,93,90.33,271,Pass
+1334,Arjun Rodriguez,Male,15,High School,4.1,75.0,60,59,62,60.33,181,Pass
+1011,Noah Verma,Male,15,Some College,2.1,84.6,65,64,69,66.0,198,Pass
+1471,Harper Brown,Male,18,Bachelor's,2.8,93.8,43,52,63,52.67,158,Pass
+1033,Kiara Brown,Male,17,High School,4.2,86.3,73,64,64,67.0,201,Pass
+1191,Harper Smith,Male,15,Bachelor's,0.3,64.7,45,33,40,39.33,118,Fail
+1414,Noah Garcia,Female,17,High School,0.9,100.0,54,68,61,61.0,183,Pass
+1581,Abigail Davis,Male,18,High School,7.9,95.5,74,80,86,80.0,240,Pass
+1383,Robert Williams,Female,18,Bachelor's,2.9,86.4,48,64,50,54.0,162,Pass
+2107,Noah Khan,Male,16,High School,1.8,100.0,79,98,79,85.33,256,Pass
+1784,Krishna Miller,Male,18,Master's,5.1,82.9,62,68,67,65.67,197,Pass
+2149,Arjun Sharma,Female,18,High School,4.2,82.2,49,57,31,45.67,137,Fail
+1883,Michael Jones,Male,15,High School,6.0,79.7,72,85,91,82.67,248,Pass
+2158,Sophia Davis,Female,16,Master's,5.5,82.0,75,85,88,82.67,248,Pass
+1379,Abigail Smith,Female,15,High School,4.9,85.7,79,67,61,69.0,207,Pass
+1090,Isabella Martinez,Male,16,High School,2.8,78.4,52,62,51,55.0,165,Pass
+1816,Anika Rodriguez,Female,17,High School,3.3,91.2,81,62,80,74.33,223,Pass
+1602,William Martinez,Male,17,Bachelor's,1.9,79.5,54,50,58,54.0,162,Pass
+1214,Ayaan Garcia,Male,16,Bachelor's,5.9,81.3,71,77,73,73.67,221,Pass
+1333,Liam Rodriguez,Male,16,High School,3.8,69.3,53,34,55,47.33,142,Fail
+1134,Pari Davis,Male,15,High School,1.0,85.4,51,50,70,57.0,171,Pass
+1347,Anika Iyer,Female,18,Bachelor's,3.9,80.0,74,72,79,75.0,225,Pass
+1881,Aadhya Davis,Male,18,Master's,4.1,82.6,73,70,74,72.33,217,Pass
+1008,Saanvi Patel,Female,17,Bachelor's,3.4,86.9,55,65,75,65.0,195,Pass
+1864,Ethan Das,Male,18,High School,3.0,84.9,59,66,76,67.0,201,Pass
+1321,Aditya Gupta,Female,15,Bachelor's,4.0,85.5,50,59,73,60.67,182,Pass
+2059,Arjun Brown,Male,15,Master's,3.2,87.4,64,75,70,69.67,209,Pass
+1188,Sophia Sharma,Female,18,High School,4.8,75.5,61,66,68,65.0,195,Pass
+2009,Lucas Garcia,Male,18,Bachelor's,0.3,97.0,39,42,44,41.67,125,Fail
+1553,Ethan Garcia,Female,15,Bachelor's,1.3,88.1,80,80,95,85.0,255,Pass
+1305,Harper Davis,Female,15,High School,2.1,73.9,71,84,68,74.33,223,Pass
+1032,Pari Brown,Male,18,Master's,4.0,84.8,81,89,100,90.0,270,Pass
+1857,Ananya Gupta,Male,18,Master's,4.8,73.7,76,81,73,76.67,230,Pass
+1685,Ava Reddy,Female,16,Bachelor's,1.9,95.9,39,48,65,50.67,152,Fail
+2081,Harper Martinez,Female,17,Some College,6.1,75.0,64,65,77,68.67,206,Pass
+1241,John Garcia,Female,15,High School,2.8,85.4,80,65,60,68.33,205,Pass
+1068,Diya Singh,Female,17,Some College,6.0,73.4,58,52,64,58.0,174,Pass
+1175,Ananya Reddy,Female,16,Bachelor's,0.2,92.6,66,82,61,69.67,209,Pass
+1767,Sophia Das,Female,16,Master's,2.7,81.0,57,50,70,59.0,177,Pass
+1246,Aadhya Williams,Female,16,Master's,7.0,87.2,67,84,71,74.0,222,Pass
+1057,Saanvi Sharma,Male,15,High School,3.8,81.9,63,57,61,60.33,181,Pass
+1631,Aadhya Reddy,Female,17,Some College,3.0,80.4,81,78,82,80.33,241,Pass
+1584,Reyansh Garcia,Male,16,High School,2.4,75.5,49,65,49,54.33,163,Pass
+2040,Lucas Miller,Male,17,High School,3.7,89.8,81,66,75,74.0,222,Pass
+1146,Liam Jones,Male,16,Bachelor's,4.6,81.2,87,73,76,78.67,236,Pass
+1091,Amelia Reddy,Male,17,Bachelor's,8.2,81.0,70,60,80,70.0,210,Pass
+2130,Saanvi Garcia,Male,17,Master's,4.5,89.7,72,68,92,77.33,232,Pass
+1393,James Singh,Male,18,High School,6.5,88.5,80,82,100,87.33,262,Pass
+1875,James Rodriguez,Male,18,Bachelor's,0.9,75.4,62,69,55,62.0,186,Pass
+1683,Sophia Rodriguez,Male,17,High School,4.0,77.8,73,57,92,74.0,222,Pass
+1311,Kiara Gupta,Male,15,High School,4.1,70.6,56,72,64,64.0,192,Pass
+1360,Arjun Sharma,Female,17,High School,0.0,78.9,60,49,71,60.0,180,Pass
+1094,Noah Patel,Female,15,High School,3.2,77.5,44,75,75,64.67,194,Pass
+1982,Noah Patel,Female,16,Some College,4.5,92.2,81,90,88,86.33,259,Pass
+2039,Pari Gupta,Male,17,Bachelor's,3.0,80.0,59,73,75,69.0,207,Pass
+1377,Sophia Sharma,Female,16,Master's,2.4,100.0,50,74,77,67.0,201,Pass
+1244,Noah Smith,Male,16,High School,4.3,68.9,73,76,85,78.0,234,Pass
+2092,Aadhya Garcia,Female,15,Master's,2.3,90.7,64,65,62,63.67,191,Pass
+1088,Mason Khan,Female,15,Master's,6.2,94.0,86,87,93,88.67,266,Pass
+1215,Mia Davis,Female,17,PhD,3.1,100.0,66,56,84,68.67,206,Pass
+1445,Ayaan Das,Female,18,PhD,0.6,91.1,93,89,98,93.33,280,Pass
+1174,Saanvi Patel,Male,18,High School,6.6,82.5,74,68,91,77.67,233,Pass
+1426,Noah Khan,Female,18,Some College,3.1,78.7,74,76,72,74.0,222,Pass
+2055,Diya Rodriguez,Female,17,Master's,5.4,83.5,68,79,80,75.67,227,Pass
+1119,Robert Jones,Female,17,Master's,2.6,74.9,72,80,64,72.0,216,Pass
+1120,Liam Smith,Female,18,Some College,3.9,90.7,100,67,82,83.0,249,Pass
+1940,Lucas Williams,Female,17,Master's,2.1,90.6,56,48,48,50.67,152,Pass
+1894,Anika Davis,Male,17,Master's,5.2,91.1,45,33,73,50.33,151,Fail
+1001,Diya Khan,Male,16,High School,0.9,93.3,39,46,45,43.33,130,Fail
+1395,Mia Smith,Male,17,High School,5.2,92.7,73,71,74,72.67,218,Pass
+1402,Noah Garcia,Female,16,PhD,4.1,100.0,75,48,87,70.0,210,Pass
+1405,Abigail Patel,Male,16,Master's,5.7,75.7,84,70,76,76.67,230,Pass
+1862,Myra Verma,Male,18,High School,6.0,78.6,74,72,81,75.67,227,Pass
+1873,Anika Patel,Female,15,High School,6.5,88.2,70,73,87,76.67,230,Pass
+1163,William Brown,Female,17,High School,5.4,71.6,74,50,73,65.67,197,Pass
+1115,Lucas Iyer,Female,16,High School,4.1,87.3,52,53,62,55.67,167,Pass
+1671,Krishna Reddy,Male,17,High School,2.7,65.1,51,51,66,56.0,168,Pass
+1151,Ayaan Davis,Female,15,Some College,3.2,59.1,54,64,56,58.0,174,Pass
+1962,Noah Sharma,Female,18,Bachelor's,4.2,85.7,84,69,92,81.67,245,Pass
+1829,Anika Miller,Female,15,Master's,6.6,86.3,100,100,100,100.0,300,Pass
+1562,Abigail Jones,Male,18,Some College,5.1,84.6,69,56,64,63.0,189,Pass
+1369,Riya Singh,Male,17,High School,5.2,80.1,80,86,78,81.33,244,Pass
+1544,Ava Smith,Female,16,Master's,4.0,93.8,55,58,67,60.0,180,Pass
+1478,Vihaan Verma,Female,15,High School,2.2,100.0,45,52,44,47.0,141,Pass
+2144,Diya Smith,Female,16,High School,3.9,78.0,64,44,88,65.33,196,Pass
+1533,Aadhya Iyer,Female,17,Master's,3.9,91.7,68,74,74,72.0,216,Pass
+1626,Aarav Singh,Male,15,Some College,2.9,98.5,46,44,57,49.0,147,Pass
+2121,Lucas Singh,Female,17,PhD,5.6,100.0,87,93,87,89.0,267,Pass
+1513,Sai Patel,Female,17,PhD,1.9,63.8,59,62,71,64.0,192,Pass
+1826,Vihaan Khan,Female,18,Bachelor's,4.0,87.0,81,67,72,73.33,220,Pass
+1073,Vihaan Nair,Male,18,Bachelor's,3.9,85.4,75,90,73,79.33,238,Pass
+1808,Anika Iyer,Female,17,Some College,1.1,88.5,74,83,74,77.0,231,Pass
+1259,Mia Gupta,Female,16,High School,1.1,76.4,41,48,49,46.0,138,Pass
+1625,Krishna Martinez,Female,18,High School,4.4,92.9,84,71,63,72.67,218,Pass
+1235,Isha Reddy,Male,18,High School,3.3,77.1,88,83,100,90.33,271,Pass
+1617,Arjun Johnson,Male,15,Some College,2.6,93.0,62,55,75,64.0,192,Pass
+1517,Isabella Khan,Male,16,High School,3.3,80.0,48,53,49,50.0,150,Pass
+1893,Noah Nair,Female,16,Bachelor's,4.6,85.4,66,71,64,67.0,201,Pass
+1803,Riya Singh,Female,17,High School,6.3,75.2,67,84,68,73.0,219,Pass
+1810,Olivia Verma,Male,17,High School,7.4,85.6,85,72,88,81.67,245,Pass
+1593,Isha Patel,Male,17,High School,6.2,85.0,65,72,83,73.33,220,Pass
+2071,Mia Verma,Male,15,High School,5.8,80.6,72,74,82,76.0,228,Pass
+1502,Isha Das,Female,17,Bachelor's,3.4,91.8,72,77,63,70.67,212,Pass
+1539,William Johnson,Male,16,Some College,6.9,84.2,66,94,95,85.0,255,Pass
+1927,Myra Patel,Male,16,High School,3.3,88.9,73,60,62,65.0,195,Pass
+1729,Mason Johnson,Male,15,Bachelor's,5.1,96.0,94,81,89,88.0,264,Pass
+1582,Pari Nair,Female,18,High School,2.8,72.0,77,65,59,67.0,201,Pass
+1344,Myra Sharma,Male,18,Master's,4.7,93.6,62,74,68,68.0,204,Pass
+1957,Ava Johnson,Female,16,High School,1.4,75.7,46,56,48,50.0,150,Pass
+1979,Krishna Iyer,Male,17,Bachelor's,1.9,77.4,62,72,77,70.33,211,Pass
+1294,Robert Davis,Male,17,High School,4.1,68.0,81,62,81,74.67,224,Pass
+1365,Anika Gupta,Female,17,Master's,1.1,75.2,72,60,74,68.67,206,Pass
+1880,Pari Davis,Male,15,Some College,2.3,70.4,60,73,76,69.67,209,Pass
+1660,Vihaan Reddy,Female,18,High School,6.1,86.4,61,82,82,75.0,225,Pass
+1015,Anika Johnson,Male,18,Bachelor's,2.1,84.4,64,70,63,65.67,197,Pass
+1687,Aditya Johnson,Female,18,Some College,2.2,87.9,49,62,68,59.67,179,Pass
+1087,Lucas Jones,Female,15,High School,4.7,94.3,42,70,71,61.0,183,Pass
+1371,Sophia Martinez,Male,15,High School,5.4,76.4,35,44,43,40.67,122,Fail
+1166,Liam Garcia,Female,17,Some College,3.7,65.8,78,69,61,69.33,208,Pass
+1132,Ava Jones,Male,18,Bachelor's,4.0,83.1,77,93,81,83.67,251,Pass
+1060,Vivaan Nair,Male,16,Some College,2.1,83.6,67,70,70,69.0,207,Pass
+1710,Isha Smith,Female,17,High School,2.9,90.0,52,76,74,67.33,202,Pass
+1677,Diya Brown,Male,15,Some College,4.8,98.0,35,56,67,52.67,158,Fail
+1355,Reyansh Iyer,Male,15,High School,5.1,76.2,62,54,69,61.67,185,Pass
+1994,Arjun Martinez,Female,16,High School,2.4,92.5,61,55,67,61.0,183,Pass
+1425,James Gupta,Male,18,Master's,3.4,98.7,84,99,95,92.67,278,Pass
+1293,Mia Sharma,Female,18,High School,6.3,93.0,67,52,64,61.0,183,Pass
+1042,Isabella Davis,Male,17,High School,6.1,92.2,61,57,60,59.33,178,Pass
+1330,Sophia Nair,Male,15,High School,4.1,77.9,81,100,85,88.67,266,Pass
+1615,Robert Garcia,Female,17,Master's,6.1,80.6,76,82,69,75.67,227,Pass
+1430,Abigail Brown,Male,17,Master's,7.2,85.1,83,79,97,86.33,259,Pass
+1080,Mia Williams,Male,18,Some College,3.9,70.5,64,83,77,74.67,224,Pass
+1694,Sai Singh,Male,18,Some College,4.3,70.5,42,62,69,57.67,173,Pass
+1029,Reyansh Gupta,Female,16,High School,5.5,79.5,52,64,55,57.0,171,Pass
+1708,Evelyn Williams,Female,16,Master's,4.0,77.5,90,84,86,86.67,260,Pass
+1928,Krishna Nair,Female,15,Some College,4.5,85.4,50,67,61,59.33,178,Pass
+1922,Lucas Johnson,Male,15,Some College,4.5,96.8,78,86,96,86.67,260,Pass
+1255,Emma Nair,Male,18,Some College,5.3,84.7,89,88,88,88.33,265,Pass
+1161,Abigail Miller,Male,17,High School,0.9,94.6,67,74,78,73.0,219,Pass
+1459,Anika Brown,Male,18,High School,1.1,76.2,34,49,49,44.0,132,Fail
+1384,Isha Iyer,Female,18,Some College,3.5,100.0,73,60,69,67.33,202,Pass
+1314,Aadhya Martinez,Female,15,Bachelor's,6.0,86.8,85,100,73,86.0,258,Pass
+1085,Noah Patel,Male,16,Some College,2.7,91.3,59,66,68,64.33,193,Pass
+1575,Ishaan Singh,Female,15,High School,4.0,86.3,80,90,96,88.67,266,Pass
+1763,Reyansh Reddy,Male,16,Master's,6.0,90.7,88,78,81,82.33,247,Pass
+1137,Pari Sharma,Female,18,Master's,5.6,97.6,76,76,72,74.67,224,Pass
+1112,Vivaan Khan,Male,16,High School,2.2,83.5,65,57,68,63.33,190,Pass
+1195,Krishna Gupta,Male,15,High School,1.7,73.1,39,36,43,39.33,118,Fail
+1853,Abigail Patel,Male,18,High School,0.6,86.7,38,50,41,43.0,129,Fail
+1179,Ethan Davis,Female,15,High School,3.5,79.3,76,51,58,61.67,185,Pass
+1556,Abigail Nair,Male,18,High School,4.7,79.9,77,69,61,69.0,207,Pass
+1724,Vihaan Sharma,Female,15,High School,2.4,95.3,53,39,49,47.0,141,Fail
+2024,Pari Davis,Female,18,Bachelor's,5.6,80.2,64,70,71,68.33,205,Pass
+1497,Arjun Martinez,Female,17,High School,1.5,91.0,62,46,72,60.0,180,Pass
+1886,Riya Johnson,Male,15,Some College,1.9,88.8,61,48,57,55.33,166,Pass
+1806,James Singh,Female,18,Bachelor's,2.1,72.1,59,53,58,56.67,170,Pass
+1130,Amelia Johnson,Female,18,Bachelor's,2.0,85.6,61,51,74,62.0,186,Pass
+1716,Mason Williams,Female,15,High School,3.7,97.2,75,60,61,65.33,196,Pass
+1338,Liam Jones,Female,15,Bachelor's,5.4,82.6,70,78,78,75.33,226,Pass
+1609,John Gupta,Female,17,Bachelor's,4.0,81.0,74,91,90,85.0,255,Pass
+1125,Aarav Iyer,Male,18,High School,2.0,88.3,57,41,56,51.33,154,Pass
+1196,James Singh,Male,16,Master's,6.0,85.7,97,91,78,88.67,266,Pass
+1227,Kiara Das,Female,17,Bachelor's,1.9,76.3,43,49,50,47.33,142,Pass
+1690,Aarav Singh,Male,17,High School,4.6,84.1,50,34,63,49.0,147,Fail
+1269,Vivaan Johnson,Male,17,High School,1.4,83.3,44,43,45,44.0,132,Pass
+1153,Ayaan Nair,Male,15,High School,4.3,92.5,52,51,67,56.67,170,Pass
+1585,Aditya Williams,Female,18,Master's,3.5,88.3,88,70,84,80.67,242,Pass
+2169,Ethan Gupta,Male,17,Some College,4.5,84.7,64,61,65,63.33,190,Pass
+1104,Emma Singh,Female,15,Bachelor's,2.5,85.2,79,74,63,72.0,216,Pass
+1594,Diya Smith,Male,15,Bachelor's,5.6,96.2,57,57,64,59.33,178,Pass
+2113,Sai Martinez,Male,17,High School,6.3,100.0,87,100,100,95.67,287,Pass
+1787,Noah Garcia,Female,15,High School,3.2,87.5,40,42,39,40.33,121,Fail
+1999,Harper Davis,Female,18,High School,5.6,84.9,74,71,70,71.67,215,Pass
+1885,Saanvi Singh,Female,18,Bachelor's,2.2,88.8,82,71,77,76.67,230,Pass
+1777,Olivia Das,Male,18,Bachelor's,7.7,83.9,74,83,79,78.67,236,Pass
+1930,Mia Williams,Male,16,High School,5.0,84.2,45,60,42,49.0,147,Pass
+1850,Arjun Patel,Female,16,Bachelor's,0.9,78.1,54,61,72,62.33,187,Pass
+1895,Ayaan Patel,Female,18,Master's,3.5,86.7,87,85,95,89.0,267,Pass
+1228,Michael Das,Male,15,Master's,4.8,98.6,94,76,75,81.67,245,Pass
+2135,Robert Verma,Female,15,Bachelor's,5.0,91.7,54,61,79,64.67,194,Pass
+1302,Lucas Smith,Female,16,Bachelor's,0.3,95.9,73,72,64,69.67,209,Pass
+1855,Aadhya Reddy,Male,17,Bachelor's,4.2,78.6,70,80,75,75.0,225,Pass
+1276,Myra Das,Female,17,Bachelor's,3.6,80.8,70,71,76,72.33,217,Pass
+1127,Diya Sharma,Female,16,Bachelor's,4.7,72.4,66,67,63,65.33,196,Pass
+1406,Vivaan Jones,Female,17,Master's,4.7,85.7,100,92,100,97.33,292,Pass
+1776,Vihaan Brown,Male,18,Bachelor's,3.8,70.3,48,56,55,53.0,159,Pass
+1822,Olivia Smith,Male,17,High School,5.3,85.4,83,95,83,87.0,261,Pass
+1712,Aarav Singh,Female,16,High School,2.5,100.0,46,53,58,52.33,157,Pass
+1766,Pari Rodriguez,Female,15,High School,2.5,84.3,49,55,66,56.67,170,Pass
+1684,Vihaan Khan,Female,16,High School,3.6,85.8,85,84,66,78.33,235,Pass
+1750,Ava Smith,Female,17,High School,4.2,67.9,68,83,78,76.33,229,Pass
+2138,Reyansh Brown,Male,16,Bachelor's,6.1,85.4,64,71,79,71.33,214,Pass
+1037,John Verma,Male,17,High School,6.2,85.4,89,78,83,83.33,250,Pass
+1140,Mason Miller,Female,17,High School,2.5,76.6,73,68,58,66.33,199,Pass
+1304,Diya Jones,Female,16,High School,6.2,75.7,64,53,68,61.67,185,Pass
+1268,Aditya Nair,Female,18,Master's,7.3,91.7,75,79,94,82.67,248,Pass
+1835,Noah Smith,Male,16,Master's,4.1,75.2,82,56,72,70.0,210,Pass
+1534,James Davis,Female,16,Master's,5.0,100.0,94,100,100,98.0,294,Pass
+1546,Anika Verma,Male,15,Master's,2.8,75.2,71,77,64,70.67,212,Pass
+1213,Ava Gupta,Female,15,Some College,3.2,90.7,72,81,69,74.0,222,Pass
+1897,Sophia Smith,Male,18,High School,6.2,96.7,65,53,62,60.0,180,Pass
+1469,Harper Singh,Male,17,High School,5.3,74.5,64,72,56,64.0,192,Pass
+1199,Arjun Verma,Female,18,Some College,2.1,65.0,53,40,62,51.67,155,Pass
+2041,Evelyn Brown,Female,15,High School,3.6,83.9,79,87,77,81.0,243,Pass
+1868,Liam Verma,Male,18,High School,6.6,65.1,68,73,77,72.67,218,Pass
+1673,Ethan Sharma,Male,16,Master's,3.4,76.9,63,56,80,66.33,199,Pass
+1917,Diya Iyer,Male,18,PhD,3.1,85.4,80,81,83,81.33,244,Pass
+1528,Sai Jones,Male,18,High School,1.0,79.1,66,63,59,62.67,188,Pass
+1676,Abigail Johnson,Female,17,Bachelor's,2.6,86.5,61,66,75,67.33,202,Pass
+2073,Vihaan Gupta,Male,15,Some College,5.4,92.0,55,59,76,63.33,190,Pass
+1815,Diya Nair,Female,15,High School,3.9,89.7,63,54,77,64.67,194,Pass
+1242,Amelia Jones,Female,16,Bachelor's,6.0,77.0,78,80,74,77.33,232,Pass
+1343,Reyansh Garcia,Male,17,Bachelor's,6.8,94.6,84,84,92,86.67,260,Pass
+1550,James Iyer,Female,16,Master's,4.5,85.3,74,73,84,77.0,231,Pass
+1387,Ayaan Williams,Male,18,Master's,4.6,83.9,85,93,82,86.67,260,Pass
+2117,Aditya Jones,Male,18,High School,0.8,64.7,91,68,69,76.0,228,Pass
+1207,Kiara Reddy,Male,15,Bachelor's,4.7,93.8,81,84,88,84.33,253,Pass
+1296,James Verma,Female,15,Master's,4.0,74.2,70,78,82,76.67,230,Pass
+1696,Aarav Williams,Female,18,Bachelor's,3.8,87.1,62,63,80,68.33,205,Pass
+2052,Sophia Reddy,Female,16,High School,1.3,81.7,58,63,60,60.33,181,Pass
+1074,John Gupta,Female,16,Bachelor's,3.8,85.4,64,62,71,65.67,197,Pass
+1606,Sai Rodriguez,Male,18,Bachelor's,5.0,88.1,62,83,73,72.67,218,Pass
+1105,Mia Garcia,Female,16,High School,7.3,95.6,61,68,78,69.0,207,Pass
+1976,Kiara Johnson,Male,17,High School,5.4,90.2,58,63,76,65.67,197,Pass
+2006,Ananya Johnson,Female,16,Some College,0.3,89.7,59,67,60,62.0,186,Pass
+2184,Noah Garcia,Female,15,High School,0.0,84.7,48,36,41,41.67,125,Fail
+1017,Myra Iyer,Male,17,Bachelor's,1.4,86.9,45,58,48,50.33,151,Pass
+1440,Saanvi Smith,Male,18,Master's,4.0,70.4,95,73,90,86.0,258,Pass
+1092,Ava Johnson,Female,15,High School,6.8,90.4,80,70,65,71.67,215,Pass
+1089,Diya Miller,Female,15,High School,2.0,82.8,69,75,79,74.33,223,Pass
+2051,Anika Verma,Female,15,Master's,0.3,87.8,43,56,54,51.0,153,Pass
+1909,Robert Smith,Male,18,Master's,0.0,95.0,63,79,68,70.0,210,Pass
+1451,Noah Das,Female,15,Master's,5.1,80.4,72,63,78,71.0,213,Pass
+1718,Ava Iyer,Female,15,Master's,3.6,82.8,88,88,77,84.33,253,Pass
+1103,Mason Gupta,Male,17,Master's,3.1,89.1,61,62,63,62.0,186,Pass
+1239,Ethan Sharma,Female,17,Some College,3.7,70.5,57,68,59,61.33,184,Pass
+2023,Evelyn Miller,Female,16,High School,3.9,68.0,25,36,34,31.67,95,Fail
+1943,Saanvi Iyer,Female,15,Some College,5.9,69.2,72,74,65,70.33,211,Pass
+1247,William Verma,Male,16,Bachelor's,3.5,88.1,66,71,84,73.67,221,Pass
+1939,James Smith,Male,16,High School,1.6,89.4,31,38,56,41.67,125,Fail
+2011,Ananya Iyer,Male,15,Some College,4.1,82.1,60,74,95,76.33,229,Pass
+1158,Ishaan Davis,Female,15,Master's,6.5,86.4,100,100,100,100.0,300,Pass
+1480,Isha Rodriguez,Female,17,Bachelor's,0.4,80.4,54,69,56,59.67,179,Pass
+1646,Robert Garcia,Female,16,Bachelor's,6.6,94.6,73,65,92,76.67,230,Pass
+1006,Ethan Reddy,Male,17,High School,2.8,76.3,56,56,51,54.33,163,Pass
+2091,Olivia Rodriguez,Female,15,PhD,6.1,75.2,83,89,83,85.0,255,Pass
+1872,Evelyn Sharma,Male,18,High School,4.4,75.6,82,71,90,81.0,243,Pass
+1966,Mia Williams,Male,18,Master's,3.9,80.8,77,59,86,74.0,222,Pass
+1019,Isha Iyer,Male,17,High School,4.0,73.9,69,59,61,63.0,189,Pass
+1998,Arjun Nair,Male,18,Bachelor's,2.4,100.0,60,74,92,75.33,226,Pass
+1122,Aadhya Garcia,Female,16,High School,2.3,85.7,71,59,67,65.67,197,Pass
+1947,Ishaan Gupta,Male,17,Some College,3.9,80.3,71,64,76,70.33,211,Pass
+1662,Vivaan Patel,Female,15,High School,9.4,66.2,61,76,59,65.33,196,Pass
+1997,Kiara Brown,Female,16,High School,5.3,99.6,74,66,60,66.67,200,Pass
+1275,Saanvi Jones,Female,17,High School,4.9,80.8,65,60,69,64.67,194,Pass
+1434,William Williams,Male,17,High School,5.2,92.5,60,48,49,52.33,157,Pass
+1812,Diya Smith,Female,18,High School,4.0,86.6,46,45,58,49.67,149,Pass
+2143,Mason Miller,Female,17,High School,5.2,68.8,66,74,72,70.67,212,Pass
+1312,Vivaan Verma,Male,18,High School,0.0,98.7,60,65,67,64.0,192,Pass
+2127,Aarav Iyer,Male,18,Master's,3.5,78.6,67,69,73,69.67,209,Pass
+2139,Aditya Davis,Male,17,Master's,1.9,85.4,66,67,73,68.67,206,Pass
+1781,Amelia Gupta,Female,18,Some College,3.4,73.2,54,76,66,65.33,196,Pass
+1547,Sai Brown,Male,17,Bachelor's,4.1,100.0,75,89,78,80.67,242,Pass
+1182,Ananya Sharma,Male,18,High School,4.6,92.1,62,73,69,68.0,204,Pass
+1185,Aarav Johnson,Male,15,High School,6.4,84.9,55,55,82,64.0,192,Pass
+1407,Aditya Miller,Male,18,Bachelor's,3.4,88.0,59,73,70,67.33,202,Pass
+1720,Robert Williams,Female,15,Master's,7.5,100.0,88,82,75,81.67,245,Pass
+2047,Pari Martinez,Male,17,High School,4.7,90.7,80,85,87,84.0,252,Pass
+1607,Ananya Verma,Male,16,Bachelor's,5.4,62.5,78,79,84,80.33,241,Pass
+1693,Anika Johnson,Female,15,PhD,2.2,85.4,68,77,72,72.33,217,Pass
+1521,William Williams,Female,17,High School,4.8,74.0,59,56,61,58.67,176,Pass
+1866,Vivaan Verma,Female,18,Master's,1.9,100.0,82,81,96,86.33,259,Pass
+2004,Mason Miller,Female,18,Bachelor's,5.7,93.0,66,58,77,67.0,201,Pass
+1381,John Singh,Male,16,High School,3.0,84.4,67,65,57,63.0,189,Pass
+1993,Emma Miller,Male,18,High School,5.1,85.4,100,99,98,99.0,297,Pass
+1411,Ishaan Reddy,Male,16,PhD,2.0,86.4,76,78,73,75.67,227,Pass
+1635,Kiara Davis,Male,16,Bachelor's,5.1,89.4,90,88,81,86.33,259,Pass
+1370,Lucas Patel,Male,16,High School,4.3,68.9,63,50,65,59.33,178,Pass
+2085,Harper Rodriguez,Female,17,Bachelor's,2.5,100.0,70,95,87,84.0,252,Pass
+2099,John Miller,Female,16,Master's,4.5,97.2,90,78,99,89.0,267,Pass
+1428,Riya Williams,Female,16,Bachelor's,2.8,68.4,56,50,67,57.67,173,Pass
+1877,Robert Das,Female,16,High School,4.0,82.6,87,76,89,84.0,252,Pass
+1079,Isha Brown,Male,17,High School,7.8,86.9,74,67,67,69.33,208,Pass
+1863,Abigail Miller,Female,18,Master's,4.7,90.6,94,83,74,83.67,251,Pass
+1574,Ananya Johnson,Female,16,High School,4.0,74.9,59,75,72,68.67,206,Pass
+2010,Emma Johnson,Male,18,PhD,5.6,83.7,75,79,73,75.67,227,Pass
+2190,Kiara Rodriguez,Female,15,High School,4.0,100.0,88,70,93,83.67,251,Pass
+1638,Harper Brown,Male,17,High School,2.7,61.9,62,58,59,59.67,179,Pass
+1608,Krishna Verma,Male,18,High School,3.0,75.3,60,74,69,67.67,203,Pass
+2195,Krishna Reddy,Male,18,Master's,2.9,100.0,68,63,70,67.0,201,Pass
+1069,Ayaan Davis,Male,18,High School,4.3,86.0,73,76,86,78.33,235,Pass
+1860,Noah Verma,Male,16,Some College,5.1,94.9,68,80,71,73.0,219,Pass
+2182,Olivia Das,Male,16,Master's,3.8,92.6,74,71,94,79.67,239,Pass
+2057,Reyansh Jones,Female,18,Some College,0.0,100.0,45,51,51,49.0,147,Pass
+1959,Isabella Patel,Male,15,PhD,2.0,79.7,63,59,60,60.67,182,Pass
+1560,Emma Reddy,Female,16,High School,0.9,81.2,43,40,43,42.0,126,Pass
+1847,Aarav Jones,Male,17,High School,4.8,76.1,55,57,72,61.33,184,Pass
+1691,Robert Nair,Male,15,Some College,4.0,90.1,49,72,70,63.67,191,Pass
+2172,Harper Smith,Female,18,Master's,3.0,87.7,58,67,79,68.0,204,Pass
+2125,Sai Sharma,Female,18,Some College,2.3,70.5,43,64,64,57.0,171,Pass
+1437,Olivia Davis,Male,18,High School,4.0,74.0,60,62,57,59.67,179,Pass
+1491,Pari Garcia,Male,16,High School,4.7,86.8,80,81,84,81.67,245,Pass
+2106,Abigail Jones,Male,18,Master's,3.8,78.7,78,69,61,69.33,208,Pass
+1070,Ava Martinez,Female,17,Master's,8.2,89.4,72,74,64,70.0,210,Pass
+1809,Mia Rodriguez,Male,15,High School,4.0,96.4,52,57,46,51.67,155,Pass
+1012,Aadhya Martinez,Female,18,Bachelor's,5.6,100.0,70,67,90,75.67,227,Pass
+1145,Sophia Khan,Male,16,Some College,3.3,60.8,33,53,56,47.33,142,Fail
+1918,Anika Iyer,Female,18,High School,3.7,82.9,46,54,41,47.0,141,Pass
+1640,Lucas Rodriguez,Male,18,High School,2.5,96.3,50,64,50,54.67,164,Pass
+1177,Vihaan Nair,Female,15,Some College,4.8,100.0,67,72,81,73.33,220,Pass
+1995,Ananya Sharma,Male,16,Bachelor's,8.0,74.8,63,56,90,69.67,209,Pass
+1441,Amelia Sharma,Male,17,Some College,2.6,64.9,48,43,70,53.67,161,Pass
+1522,Sai Johnson,Male,16,Bachelor's,3.5,69.1,60,46,52,52.67,158,Pass
+2005,Ananya Williams,Female,17,Bachelor's,3.2,100.0,77,70,70,72.33,217,Pass
+1144,Ethan Davis,Male,16,Master's,5.2,100.0,71,86,90,82.33,247,Pass
+1754,Isabella Johnson,Male,18,Master's,2.7,74.5,65,61,66,64.0,192,Pass
+1520,Myra Das,Male,18,Bachelor's,4.6,100.0,54,56,56,55.33,166,Pass
+1823,Anika Rodriguez,Male,15,Bachelor's,4.6,75.9,44,70,65,59.67,179,Pass
+1429,James Singh,Male,17,PhD,4.2,83.4,80,63,85,76.0,228,Pass
+1613,Ethan Patel,Female,15,Bachelor's,6.0,71.9,77,70,81,76.0,228,Pass
+2033,Olivia Gupta,Male,16,Master's,3.4,92.5,74,62,66,67.33,202,Pass
+1157,Emma Smith,Female,18,High School,1.6,79.0,44,51,55,50.0,150,Pass
+1540,Mason Davis,Male,15,Some College,3.6,83.1,60,69,62,63.67,191,Pass
+1462,Myra Rodriguez,Female,15,PhD,2.0,64.8,65,65,78,69.33,208,Pass
+1577,Mia Iyer,Male,18,High School,1.8,93.4,49,54,60,54.33,163,Pass
+1256,Noah Khan,Female,16,Bachelor's,4.4,83.2,58,72,77,69.0,207,Pass
+1980,Noah Martinez,Female,15,High School,5.2,89.9,55,64,36,51.67,155,Fail
+2007,Sai Patel,Female,17,Bachelor's,2.3,74.9,65,66,53,61.33,184,Pass
+1561,John Jones,Female,18,High School,3.6,100.0,89,88,71,82.67,248,Pass
+1209,John Rodriguez,Male,17,Bachelor's,4.5,87.6,93,81,87,87.0,261,Pass
+1911,Mason Johnson,Female,16,Master's,4.9,94.5,65,90,76,77.0,231,Pass
+1002,Sophia Smith,Female,16,Master's,4.5,91.5,80,86,89,85.0,255,Pass
+1270,Vivaan Nair,Male,16,High School,5.7,94.9,65,63,50,59.33,178,Pass
+1266,Harper Singh,Female,15,Master's,4.8,97.0,89,94,84,89.0,267,Pass
+1915,James Martinez,Female,18,Some College,6.2,77.8,79,94,85,86.0,258,Pass
+1231,Vihaan Davis,Female,18,High School,4.6,95.9,74,70,67,70.33,211,Pass
+2193,Ava Sharma,Male,17,Bachelor's,2.4,82.0,79,72,63,71.33,214,Pass
+2189,Emma Das,Male,18,Bachelor's,3.1,80.2,59,49,50,52.67,158,Pass
+1865,Myra Nair,Male,18,High School,2.7,84.3,68,53,68,63.0,189,Pass
+2067,Kiara Gupta,Male,15,Master's,3.9,89.4,81,74,75,76.67,230,Pass
+1874,Isabella Williams,Male,16,Bachelor's,5.4,86.1,83,86,74,81.0,243,Pass
+2078,Sai Iyer,Female,16,Some College,8.0,91.0,100,98,99,99.0,297,Pass
+1399,Arjun Iyer,Female,15,High School,3.1,80.0,65,56,65,62.0,186,Pass
+2199,Noah Nair,Female,16,Bachelor's,4.5,73.6,52,65,58,58.33,175,Pass
+1046,Harper Patel,Female,15,Some College,7.2,91.4,68,73,79,73.33,220,Pass
+1162,Diya Singh,Female,15,Some College,0.0,100.0,34,33,61,42.67,128,Fail
+1992,Liam Patel,Female,15,High School,2.0,88.3,73,71,76,73.33,220,Pass
+1728,Pari Miller,Female,17,High School,0.0,75.8,48,50,52,50.0,150,Pass
+1630,James Gupta,Male,18,Bachelor's,4.0,80.7,70,65,69,68.0,204,Pass
+1289,Noah Sharma,Male,15,High School,4.1,86.0,45,60,55,53.33,160,Pass
+2060,Vihaan Das,Female,17,High School,3.1,85.9,56,54,51,53.67,161,Pass
+2179,Vivaan Verma,Female,18,Some College,6.3,68.0,39,61,44,48.0,144,Fail
+1576,Michael Patel,Female,15,High School,7.5,80.2,78,79,78,78.33,235,Pass
+1851,Aarav Reddy,Male,18,High School,4.1,85.9,87,87,69,81.0,243,Pass
+1912,Ananya Miller,Male,18,Master's,0.0,85.4,57,62,57,58.67,176,Pass
+1933,Michael Singh,Female,16,High School,5.5,92.6,75,86,100,87.0,261,Pass
+1248,Lucas Khan,Female,16,PhD,1.3,89.9,54,45,50,49.67,149,Pass
+1477,Myra Martinez,Male,16,High School,0.0,75.8,19,47,57,41.0,123,Fail
+1086,Aditya Das,Male,16,High School,10.0,87.7,84,87,91,87.33,262,Pass
+1470,Evelyn Das,Female,17,Bachelor's,1.5,62.4,31,56,33,40.0,120,Fail
+1226,Emma Patel,Male,15,Master's,2.4,66.8,73,85,66,74.67,224,Pass
+1775,Ananya Williams,Female,17,Bachelor's,2.5,94.3,60,54,59,57.67,173,Pass
+1332,Vivaan Rodriguez,Female,15,Bachelor's,4.8,80.5,59,74,64,65.67,197,Pass
+1234,Ishaan Davis,Male,17,High School,4.3,93.3,69,83,90,80.67,242,Pass
+1589,Ayaan Iyer,Male,16,Bachelor's,7.2,75.8,85,100,98,94.33,283,Pass
+1476,Aditya Iyer,Female,15,Bachelor's,9.0,71.8,82,78,82,80.67,242,Pass
+1600,William Gupta,Male,16,Bachelor's,5.1,94.3,58,70,75,67.67,203,Pass
+1422,Isabella Martinez,Female,16,Some College,5.8,78.5,83,77,92,84.0,252,Pass
+1183,Michael Khan,Female,18,Bachelor's,6.6,100.0,87,85,96,89.33,268,Pass
+1989,Liam Smith,Male,16,Bachelor's,4.6,78.5,45,55,55,51.67,155,Pass
+2001,Saanvi Gupta,Male,18,Bachelor's,1.2,77.3,50,66,54,56.67,170,Pass
+1050,Anika Johnson,Male,18,High School,2.6,87.6,49,48,54,50.33,151,Pass
+2132,Diya Garcia,Male,18,Bachelor's,4.6,81.4,92,81,99,90.67,272,Pass
+2030,Abigail Verma,Female,16,Bachelor's,5.6,75.4,79,56,80,71.67,215,Pass
+1530,Pari Jones,Female,16,High School,1.1,95.2,39,36,47,40.67,122,Fail
+1487,Ava Jones,Male,16,Master's,3.9,93.1,63,74,73,70.0,210,Pass
+1498,Ishaan Davis,Male,16,Master's,3.7,69.5,65,61,84,70.0,210,Pass
+1107,Aadhya Brown,Male,16,Master's,5.0,93.0,70,79,70,73.0,219,Pass
+1444,William Iyer,Male,15,High School,5.1,95.3,82,79,90,83.67,251,Pass
+1647,Isha Brown,Female,18,High School,0.7,82.1,62,59,79,66.67,200,Pass
+2037,Aarav Khan,Male,18,High School,6.5,81.7,61,73,85,73.0,219,Pass
+1727,Ava Singh,Male,16,Some College,4.9,87.9,57,78,71,68.67,206,Pass
+1283,Robert Rodriguez,Male,17,Bachelor's,6.2,85.4,75,87,88,83.33,250,Pass
+1030,Sophia Johnson,Male,18,High School,1.2,86.3,28,45,40,37.67,113,Fail
+1170,Sai Patel,Female,18,Bachelor's,6.2,83.2,75,85,80,80.0,240,Pass
+2002,Isabella Nair,Female,15,High School,3.5,79.7,46,52,63,53.67,161,Pass
+1101,Riya Singh,Male,16,Some College,3.3,65.7,49,40,53,47.33,142,Pass
+1198,Ava Johnson,Female,17,Bachelor's,2.4,82.7,75,54,56,61.67,185,Pass
+1496,Emma Garcia,Male,15,Some College,5.0,83.6,64,66,78,69.33,208,Pass
+1648,Aditya Das,Female,16,High School,3.4,93.5,58,69,56,61.0,183,Pass
+1988,Abigail Reddy,Male,15,Some College,8.7,96.8,100,100,100,100.0,300,Pass
+1045,William Sharma,Male,16,High School,3.3,100.0,58,62,71,63.67,191,Pass
+1711,Saanvi Brown,Female,16,Some College,3.7,70.1,95,75,75,81.67,245,Pass
+1374,Saanvi Miller,Female,17,High School,4.3,75.4,37,56,50,47.67,143,Fail
+1679,Isha Martinez,Female,18,Some College,3.5,85.8,88,77,68,77.67,233,Pass
+1567,Vivaan Gupta,Male,15,Master's,3.3,88.2,68,78,64,70.0,210,Pass
+1848,Amelia Williams,Female,18,Bachelor's,3.8,90.2,66,60,80,68.67,206,Pass
+1461,Pari Smith,Male,18,Some College,6.2,81.8,62,48,53,54.33,163,Pass
+1040,Anika Singh,Male,17,Some College,4.0,94.7,42,55,71,56.0,168,Pass
+1435,Riya Verma,Male,16,Some College,3.3,95.0,54,57,55,55.33,166,Pass
+1974,Sophia Verma,Male,16,High School,4.2,94.5,71,71,75,72.33,217,Pass
+2008,Myra Reddy,Female,16,Bachelor's,1.2,87.2,47,55,61,54.33,163,Pass
+1457,Mia Das,Male,16,Bachelor's,1.7,86.0,84,67,76,75.67,227,Pass
+1261,Mason Nair,Female,17,Some College,2.0,83.5,72,75,66,71.0,213,Pass
+1036,Krishna Nair,Female,17,High School,0.5,74.3,34,23,42,33.0,99,Fail
+1828,Krishna Singh,Male,17,PhD,3.9,86.1,62,64,83,69.67,209,Pass
+1310,Aadhya Patel,Male,15,Bachelor's,5.9,76.2,61,60,88,69.67,209,Pass
+1277,Isabella Garcia,Female,16,Bachelor's,2.5,84.3,71,64,55,63.33,190,Pass
+1655,Anika Patel,Male,18,High School,4.2,94.0,60,67,72,66.33,199,Pass
+1623,Abigail Jones,Male,17,Bachelor's,6.2,67.9,76,71,61,69.33,208,Pass
+1845,Aditya Sharma,Male,16,Master's,4.5,86.8,97,100,100,99.0,297,Pass
+1394,Liam Brown,Female,18,Some College,2.0,94.8,76,77,93,82.0,246,Pass
+1108,Vivaan Iyer,Female,17,High School,5.7,76.5,72,60,79,70.33,211,Pass
+1350,Mia Nair,Female,18,Master's,4.2,86.9,71,69,60,66.67,200,Pass
+1525,Pari Davis,Female,16,High School,5.5,81.8,69,64,66,66.33,199,Pass
+1785,Sophia Williams,Male,16,High School,4.0,83.6,88,68,72,76.0,228,Pass
+1048,John Rodriguez,Female,18,Bachelor's,0.4,98.7,72,74,67,71.0,213,Pass
+1204,Myra Jones,Female,15,High School,4.0,94.8,38,51,54,47.67,143,Fail
+1022,Ethan Gupta,Male,18,PhD,7.5,95.0,85,90,92,89.0,267,Pass
+1403,Ava Miller,Female,15,Bachelor's,4.5,92.8,69,74,75,72.67,218,Pass
+2108,Sai Sharma,Female,15,Some College,1.4,97.5,52,55,61,56.0,168,Pass
+2155,Kiara Brown,Female,18,Bachelor's,2.6,94.7,74,89,66,76.33,229,Pass
+1990,Aarav Miller,Female,17,Some College,3.0,90.3,57,72,68,65.67,197,Pass
+1742,Aditya Garcia,Male,15,Bachelor's,2.0,76.8,55,57,60,57.33,172,Pass
+2148,Ava Brown,Female,17,Some College,3.2,71.8,58,62,57,59.0,177,Pass
+1034,Reyansh Miller,Female,15,Bachelor's,5.6,82.5,96,82,79,85.67,257,Pass
+1788,John Reddy,Male,18,High School,2.6,62.9,76,66,70,70.67,212,Pass
+1924,Saanvi Davis,Female,17,Master's,8.8,100.0,95,89,100,94.67,284,Pass
+2044,Olivia Davis,Female,16,High School,7.5,81.5,76,74,61,70.33,211,Pass
+2168,Aditya Das,Female,17,Master's,5.0,99.5,84,88,87,86.33,259,Pass
+1580,Kiara Garcia,Male,15,Some College,5.1,85.4,88,100,100,96.0,288,Pass
+1482,Diya Nair,Female,17,Bachelor's,4.3,78.2,47,67,51,55.0,165,Pass
+1932,Ethan Patel,Female,18,High School,3.5,96.7,82,79,78,79.67,239,Pass
+1357,Vivaan Nair,Male,16,High School,6.5,100.0,58,74,57,63.0,189,Pass
+1760,Noah Reddy,Female,17,Some College,6.6,89.5,68,68,80,72.0,216,Pass
+1093,Pari Davis,Female,17,Bachelor's,4.9,81.6,66,68,64,66.0,198,Pass
+1804,John Rodriguez,Female,15,Master's,3.8,92.0,95,91,100,95.33,286,Pass
+1746,Aarav Williams,Female,18,Bachelor's,0.8,85.4,62,61,53,58.67,176,Pass
+1280,Ayaan Martinez,Female,18,Bachelor's,1.7,78.5,62,56,61,59.67,179,Pass
+1765,Aarav Jones,Male,15,Bachelor's,5.3,84.8,71,76,73,73.33,220,Pass
+1605,Harper Davis,Male,15,Bachelor's,3.9,86.0,61,50,56,55.67,167,Pass
+2200,Harper Miller,Male,17,High School,4.8,73.7,71,90,82,81.0,243,Pass
+1401,Ishaan Nair,Male,16,PhD,6.4,72.6,86,92,73,83.67,251,Pass
+1258,Amelia Sharma,Female,16,High School,1.9,75.6,52,39,60,50.33,151,Fail
+1945,John Miller,Male,16,Master's,4.4,79.4,85,63,76,74.67,224,Pass
+2097,Krishna Miller,Male,17,Some College,4.0,75.0,77,62,80,73.0,219,Pass
+2162,Sai Iyer,Male,18,Master's,8.0,79.8,72,75,86,77.67,233,Pass
+1495,Evelyn Patel,Male,15,Bachelor's,0.4,96.1,47,46,78,57.0,171,Pass
+1773,Aarav Reddy,Male,16,Bachelor's,3.0,82.4,61,63,73,65.67,197,Pass
+1551,Vivaan Garcia,Female,16,Bachelor's,5.5,76.1,70,91,87,82.67,248,Pass
+1202,Robert Nair,Male,15,Some College,1.5,97.2,70,67,71,69.33,208,Pass
+1313,Lucas Davis,Male,15,PhD,4.0,99.6,90,85,100,91.67,275,Pass
+1291,Harper Martinez,Male,17,High School,2.4,97.5,59,73,64,65.33,196,Pass
+1764,Amelia Sharma,Female,16,Master's,0.0,85.4,60,58,64,60.67,182,Pass
+2137,Amelia Singh,Female,15,High School,3.5,73.8,58,55,61,58.0,174,Pass
+1950,Diya Martinez,Female,17,Master's,2.1,74.9,60,73,58,63.67,191,Pass
+1184,William Jones,Female,15,High School,1.4,93.3,34,51,64,49.67,149,Fail
+2177,Isha Martinez,Female,18,Master's,3.6,70.2,54,52,40,48.67,146,Pass
+2069,Aditya Jones,Male,18,Bachelor's,1.2,81.1,64,61,75,66.67,200,Pass
+2031,Ayaan Garcia,Male,18,High School,4.3,85.4,48,71,81,66.67,200,Pass
+1251,Evelyn Patel,Male,16,High School,3.7,85.4,60,62,68,63.33,190,Pass
+1824,Aadhya Davis,Male,16,High School,2.8,84.9,57,76,84,72.33,217,Pass
+2100,Vihaan Garcia,Male,16,PhD,1.6,85.2,51,60,69,60.0,180,Pass
+1941,Ishaan Johnson,Male,18,High School,4.0,86.9,51,38,67,52.0,156,Fail
+1392,Arjun Martinez,Male,15,Master's,4.1,83.0,69,70,94,77.67,233,Pass
+2093,Mia Khan,Female,18,Bachelor's,6.0,93.4,74,57,53,61.33,184,Pass
+2192,Ethan Williams,Female,17,High School,2.6,100.0,54,64,72,63.33,190,Pass
+1905,Diya Rodriguez,Male,16,PhD,4.0,70.5,67,63,73,67.67,203,Pass
+1731,Evelyn Verma,Male,17,High School,6.5,100.0,61,64,57,60.67,182,Pass
+1555,Michael Jones,Female,17,Bachelor's,6.4,89.3,100,97,94,97.0,291,Pass
+1367,Emma Reddy,Female,15,Master's,6.3,76.7,95,100,89,94.67,284,Pass
+1346,Evelyn Singh,Female,18,Master's,4.0,86.8,67,97,78,80.67,242,Pass
+1536,Robert Iyer,Female,16,Some College,4.5,87.0,63,59,65,62.33,187,Pass
+1920,Lucas Jones,Male,16,Bachelor's,6.6,98.9,82,94,94,90.0,270,Pass
+1212,Olivia Jones,Female,16,High School,5.6,100.0,70,65,74,69.67,209,Pass
+1503,Lucas Brown,Male,15,Master's,2.1,81.1,48,59,61,56.0,168,Pass
+1176,Ethan Nair,Male,17,High School,1.6,85.9,39,50,44,44.33,133,Fail
