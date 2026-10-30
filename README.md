@@ -1,6 +1,6 @@
 # 📊 Student Performance Analysis
 
-A complete Python Data Analytics project that analyzes student performance using real-world educational data. This project demonstrates data cleaning, exploratory data analysis (EDA), visualization, and insight generation using Python. It is designed as a beginner-friendly portfolio project suitable for GitHub and Data Analyst/Software Engineer fresher roles.
+A complete Python Data Analytics project that analyzes student performance using real-world educational data. This project demonstrates data cleaning, exploratory data analysis (EDA), visualization, and insight generation using Python.
 
 ---
 
